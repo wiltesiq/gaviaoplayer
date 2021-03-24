@@ -1,93 +1,93 @@
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]JAMES BOND 007[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://lh4.googleusercontent.com/-XoX-K4cTXps/UKiMDrUxFkI/AAAAAAAAD3A/OIOnp7Og6PU/s320/5yW8y.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/D1Xhx8AW</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/CATEGORIA%20007.txt</externallink>
 <fanart>https://www.ganhador.com/app/uploads/2020/04/007.jpg</fanart>
 <info>[B][COLOR yellow][/COLOR][/B]</info></item>
-######################################################################################################################################
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]A EXPERIENCIA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/ryy7j9eAdSA08brwJ3q1wEs6D_g=/290x478/smart/media/movies/covers/2012/01/b996f5e517943cc910b7331155e8bf87.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/6SGRDCrt</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20A%20EXPERIEN%C3%87IA.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/bTHqaM1SVXSpEELkZ471MFlt53s.jpg</fanart>
 <info>[B]]Um ser alienígena é o resultado de um código genético desconhecido enviado do espaço e recebido por cientistas. Após o nascimento da criança e seu rápido desenvolvimento, há uma ordem para matar a "menina", que é meio humana e meio extraterrestre, mas ela foge do laboratório onde é mantida. Enquanto procuram por uma criança, ela se transforma em uma atraente mulher (Natasha Henstridge), que deseja acasalar rapidamente para proliferar a sua espécie.[/COLOR][/B]</info></item>
-######################################################################################################################################
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ANJOS DA NOITE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/QZD-N9yNfWTEiWfGHuKUjcIjKsM=/290x478/smart/media/movies/covers/2011/06/31e688272adafd0d653fb9f7ff338edf_1.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/iYDxMMB7</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20ANJOS%20DA%20NOITE.txt</externallink>
 <fanart>https://media.fstatic.com/J29MY8kapJdjxgkBiplQAXxeCG4=/600x250/smart/media/articles/main/2014/03/cacb63a9-2844-42bb-a997-fec81ba19e3b.jpe</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</info></item>
-######################################################################################################################################
+<info>[B][COLOR yellow]A Saga Anjos da Noite (Underworld) lançou uma tênue tonalidade azul sobre a eterna disputa entre vampiros e Lycans, enquanto nos deu mais razões para amar a eterna Kate Beckinsale. Quando o primeiro filme da saga foi lançado em , ele introduziu o público em um mundo aparentemente desprovido de luz do dia, onde balas ultravioletas se espalham pela tela em uma onda de prazer gótico. Todos esses anos depois, tivemos o prazer de cinco parcelas de elegantes tiroteios e um rio interminável de sangue mutante.[/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]A SAGA CREPUSCULO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51WzVPOsmsL.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/3KCbKwqy</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20CREPUSCULO.txt</externallink>
 <fanart>https://www.vagalume.com.br/dynimage/news3269-big.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<info>[B][COLOR yellow]A saga Crepúsculo é uma serie de filmes de fantasia e romance, escrito por Stephenie Meyer, e aborda o relacionamento entre uma adolescente humana  e um vampiro.[/COLOR][/B]</item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ALIEN[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.pinimg.com/originals/14/40/a6/1440a6f863758811ea8b954d5a555397.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/xXNYCJzB</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20ALIENS.txt</externallink>
 <fanart>https://www.cineset.com.br/wp-content/uploads/2016/10/Aliens-O-Resgate-e1491785686820.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<info>[B][COLOR yellow]Mesclando ficção científica, horror e ação como ninguém, a saga de Alien já passou por poucas e boas, com pontos altos e baixos e várias reviravoltas ao longo dos anos. De grandes histórias de horror com isolamento a crossovers podres de tão ruim, a trama dos Xenomorfos nos levou a lugares sombrios do espaço.[/COLOR][/B]</item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]BATMAN[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/FOnZzQN2T9ZZNfKeSkvQNcVVdto=/290x478/smart/media/movies/covers/2019/05/MV5BNjc1ZDhmOTgtNGM5NC00NTRmLWI1OWQtMDIzZDg2ZGE1ODM3XkEyXkFqcGdeQX_6DyyZwT.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/STprZGkm</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/CATEGORIA%20COLE%C3%87%C3%83O%20BATMAN.txt</externallink>
 <fanart>https://media.fstatic.com/yOxOgVhHkN4idSSPBcCNgGvaPkY=/600x250/smart/media/articles/main/2016/08/18/602x0_1471532364-1724783869.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<info>[B][COLOR yellow]Batman, Bruce Wayne, o homem morcego, o melhor detetive do mundo, o bilionário sem poderes que usa artes marciais e equipamentos caros para descer a porrada nesses psicopatas que se consideram super-vilões… chame como quiser. O que é inegável é que o morcegão é um dos personagens mais conhecidos de todo o mundo pop. [/COLOR][/B]</item>
+###############################################################################################################################
  <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]BUSCA EXPLOSIVA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://ondebaixa.com/capa/busca-explosiva-todos-os-filmes-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/KnH5WbCX</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20BUSCA%20EXPLOSIVA.txt</externallink>
 <fanart>https://images.justwatch.com/backdrop/166486581/s480/busca-explosiva-3</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<info>[B][COLOR yellow]Todos os filmes da franquia Busca Explosiva (The Marine) do primeiro ao sexto filme. JOHN CENA, o CAMPEÃO DA WWE, domina a cena no papel do fuzileiro John Triton. Onde quer que haja perigo, lá está Triton detonando. e ele não joga seguindo as regras! Após Triton ser enviado de volta da Guerra do Iraque, Kate, sua linda esposa (Kelly Carlson de Nip/Tuck), é seqüestrada por impiedosos ladrões de jóias comandados por um implacável assassino (Robert Patrick)! Agora, Triton precisa lutar para salvá-la, usando sua arma mais poderosa: ele mesmo![/COLOR][/B]</item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]BUSCA IMPLACAVEL[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://lojasaraiva.vteximg.com.br/arquivos/ids/706681/123520847.jpg?v=636966316633830000</thumbnail>
-<externallink>https://pastebin.com/raw/SBpJVf2y</externallink>
-<fanart>https://lh3.googleusercontent.com/proxy/F6WEtG5-mjVuTT00JFT1z96ku2xO9grKLurcd9uSUaE9XDj76F8SDS2XDZM58UqPzVGD1afjyxtPGH53diUwr0vZz1fsv9g_s2Tb3SWNBrmcBBMDK4e5q1SNrqcrnAEYcTnpmFbTvGELCylW</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20BUSCA%20IMPLACAVEL.txt</externallink>
+<fanart>https://www.proibidoler.com/wp-content/uploads/2016/04/busca-implacavel-resumiram-a-trilogia-em-apenas-90-segundos.jpeg</fanart>
+<info>[B][COLOR yellow]Nessa frankia com tres filmes de muita ação Bryan Mills (Liam Neeson) ex agente da cia se tranforma quando sua filha esta em perigo,não brinque, não discuta e não faça nada com a filha de Bryan Mills.pois ele fara de tudo para encontra-la e punir os vilões [/COLOR][/B]</item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CARGA EXPLOSIVA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/o6DnRqCvnG-o5CkNuYS3TBW3y-k=/290x478/smart/media/movies/covers/2014/06/carga-explosiva_t302.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/yGhwDUHs</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20CARGA%20EXPLOSIVA.txt</externallink>
 <fanart>https://cdn.fstatic.com/media/movies/photos/2016/03/carga-explosiva-o-legado_t79463.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
+<info>[B][COLOR yellow]Carga Explosiva é uma franquia que já rendeu três filmes estrelados pelo calvo Jason Statham como o motorista que entrega suas encomendas sem fazer nenhuma pergunta.Ele possui, entretanto, três regras: o acordo não pode ser mudado, não quer saber o nome do cliente, e jamais olha dentro do pacote que lhe confiam. [/COLOR][/B]</item>
 ######################################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CORAÇÃO DE DRAGÃO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/GWyjOQsANUph-vXEzdmSqFtW8Ho=/195x289/smart/media/movies/covers/2012/01/c95c10f436d9566d903e1543a65daa29.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/MajGcBPR</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20CORA%C3%87%C3%83O%20DE%20DRAG%C3%83O.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/oASfjqueQdR0wpeI2Q4xW2mSaZ.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
+<info>[B][COLOR yellow]Aventuras de um jovem cavaleiro medieval Gareth (Julian Morris),um dragao. aventura heróica que resplandece com muita ação,fantasia e humor. Dragonheart é uma aventura épica que vai emocionar todos família.[/COLOR][/B]</item>
 ######################################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CORRIDA MORTAL[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://infonet.com.br/wp-infonet/img/Cinema/grande-corrida_mortal.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/7CNRT1FX</externallink>
-<fanart>https://br.web.img2.acsta.net/r_1280_720/medias/nmedia/18/87/04/06/19884948.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20CORRIDA%20MORTAL.txt</externallink>
+<fanart>http://www.superamiches.com/wp-content/uploads/2017/01/Death-Race-1-5.jpg</fanart>
+<info>[B][COLOR yellow]franquia de combate de carros que engloba uma série de filmes e outras mídias centrada em um reality show ambientado em uma prisão, onde presidiários competem uns contra os outros para ganhar sua liberdade. Death Race (franquia) - https://pt.qaz.wiki/wiki/Death_Race_(franchise)[/COLOR][/B]</item>
 ######################################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]DESEJO DE MATAR[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/Of2t_XU3DvkE_wkR-IbXux-GED4=/290x478/smart/media/movies/covers/2018/11/e524ad00-53cb-012f-db6c-00505694738d.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/HHush0XN</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20DESEJO%20DE%20MATAR.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/koT46pyZQYoOYEXHcMTS4Kt6WNh.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
+<info>[B][COLOR yellow]a longa trajetória do vigilante Paul Kersey(Charles Bronson) no cinema. O primeiro filme da frankia foi pioneiro no quesito “homem comum resolve fazer justiça com as próprias mãos após o sistema falhar com ele[/COLOR][/B]</item>
 ######################################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]EFEITO BORBOLETA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w500/8u1vnFy6Dml73Kb4GGgZkRQlEPk.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/imzH7QiN</externallink>
-<fanart>https://image.tmdb.org/t/p/original/lfb0yLlwIBYa7N0jnvkULJCKrBZ.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20EFEITO%20BORBOLETA.txt</externallink>
+<fanart>http://noset.com.br/wp-content/uploads/2017/01/3-35.jpg</fanart>
+<info>[B][COLOR yellow]Efeito Borboleta é um impressionante frankia de ficção científica e suspense psicológico , estrelado por Ashton Kutcher e Amy Smart. Com uma história de linha temporal como poucas vistas, Efeito Borboleta impressiona do inicio ao fim, com o pouco que tem, mas com um dos roteiros mais inteligentes de filme de suspense e terror que já vi, você não sabe como o filme pode acabar ou quando vai acabar com tanta possibilidades. [/COLOR][/B]</item>
 ######################################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ELA DANÇA,EU DANÇO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
