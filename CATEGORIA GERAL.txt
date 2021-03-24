@@ -139,7 +139,7 @@
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]VIDEOSCLIPS & MUSICAS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/4y3XdrPw/video-clips-e-audio.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/CATEGORIA%20VIDEOCLIPS%20%26%20AUDIOS.txt</externallink>
 <fanart>https://i.postimg.cc/d0nDL1wD/FANART-VIDEOS-E-MUSICAS.jpg</fanart>
 <info>[B][COLOR yellow]OS MELHORES VIDEOCLIPS E AUDIOS DE MUSICAS ANTIGOS E ATUAIS, RADIOS ON LINE , ETÇ ESTARÃO AQUI[/COLOR][/B]</info>
 </item>
