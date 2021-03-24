@@ -1,0 +1,59 @@
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]###########[COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR yellow]###########[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS EPISODEOS DA SERIE EM TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]### [COLOR white] O Mandaloriano [COLOR lime]1ª Temporada[COLOR yellow]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://media.fstatic.com/EO5lEiscPwx-xr5RKXxBk-3RTLA=/290x478/smart/media/movies/covers/2019/11/the-mandalorian_5.jpg</thumbnail></item>
+<item><title>[B][COLOR white]EP 01 - [COLOR yellow]Capítulo 1: O Mandaloriano [/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55dbfc380257cf5559f6e47187f63c70f550ba6c</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 02 - [COLOR yellow]Capítulo 2: A Criança [/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e8bed3a0f5ce3dcf4798f586e4eff145d0d55185</link><thumbnail>IGNOREME</thumbnail></item><item><title>[B][COLOR white]EP 01 - [COLOR yellow] [/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 03 - [COLOR yellow]Capítulo 3: O Pecado [/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af3380ad96e7168ed913e54333ddaaafb1cf2808</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 04 - [COLOR yellow]Capítulo 4: Santuário [/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c9806b107fc24c064cd988385831c353d233034</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 05 - [COLOR yellow]Capítulo 5: O Pistoleiro [/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60AB3C85A1AAF83C931364AD254F4725559DFD5A</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 06 - [COLOR yellow]Capítulo 6: O Prisioneiro [/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11F9C6EC7A7C2BD7CF98BCC79D2B7BDB90A7A356</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 07 - [COLOR yellow]Capítulo 7: O Acerto de Contas  [/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FD528FD4FDCB5A220062F3EFE4147DEA8AED8154</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 08 - [COLOR yellow]Capítulo 8: Redenção [/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc7b498e748a680b2e191aba5c8ede24fd28293d</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]### [COLOR white] O Mandaloriano [COLOR lime]2ª Temporada[COLOR yellow]###[/COLOR][/B]</title>
+<link>I</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 01 - [COLOR yellow]Capítulo 9: O Marechal [/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8CCD0D6986ACCEAEC40EA0B5A4C516ACD51B87CA</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 02 - [COLOR yellow]Capítulo 10: O Passageiro [/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0E77862F106D7D0980F1058F4BF1D682E5A42330</link><thumbnail>IGNOREME</thumbnail></item><item><title>[B][COLOR white]EP 01 - [COLOR yellow] [/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 03 - [COLOR yellow]Capítulo 11: A Herdeira [/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59f6c200754756a1c637af43f00cfde1e69c0edb</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 04 - [COLOR yellow]Capítulo 12: O Cerco [/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:337DD0978A74717B27B7B1D4194A29F5E7BFEF8F</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 05 - [COLOR yellow]Capítulo 13: A Jedi [/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec2c5dcb0e1cd92ed801116a2857fe7b32f9ccb0</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 06 - [COLOR yellow]Capítulo 14: A Tragédia [/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcbdf1b5b4879a6c37db255c75fef9d8bc709c30</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 07 - [COLOR yellow]Capítulo 15: O Que Acredita [/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1109c57305e8fbf7e464859ab64d10801f7f2671</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 08 - [COLOR yellow]Capítulo 16: O Resgate [/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b6eab42cab674c03c9786435b3215912808a9d</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS EPISODEOS DA SERIE EM LINKS DIRETOS,POREM AS VEZES FICAM OFF LINE,MAS LOGO VOLTA A FICAR ON LINE.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR red]###[COLOR lime]O Mandaloriano[COLOR yellow] 1ª Temporada[COLOR red]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://media.fstatic.com/EO5lEiscPwx-xr5RKXxBk-3RTLA=/290x478/smart/media/movies/covers/2019/11/the-mandalorian_5.jpg</thumbnail></item>
+
+ 
+<item><title>[COLOR white]EP 01 - [COLOR yellow]Capítulo 1: O Mandaloriano [/COLOR]</title><link>dt8vt4yfpsj2n.cloudfront.net/RCServer13/ondemand/OMNDLRNOSTRWRST01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR white]EP 02 - [COLOR yellow]Capítulo 2: A Criança [/COLOR]</title><link>dt8vt4yfpsj2n.cloudfront.net/RCServer13/ondemand/OMNDLRNOSTRWRST01EP02.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR white]EP 03 - [COLOR yellow]Capítulo 3: O Pecado [/COLOR]</title><link>dt8vt4yfpsj2n.cloudfront.net/RCServer13/ondemand/OMNDLRNOSTRWRST01EP03.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR white]EP 04 - [COLOR yellow]Capítulo 4: Santuário [/COLOR]</title><link>dt8vt4yfpsj2n.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRST01EP04.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR white]EP 05 - [COLOR yellow]Capítulo 5: O Pistoleiro [/COLOR]</title><link>dt8vt4yfpsj2n.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRST01EP05.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR white]EP 06 - [COLOR yellow]Capítulo 6: O Prisioneiro [/COLOR]</title><link>dt8vt4yfpsj2n.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRST01EP06.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR white]EP 07 - [COLOR yellow]Capítulo 7: O Acerto de Contas [/COLOR]</title><link>dt8vt4yfpsj2n.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRST01EP07.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR white]EP 08 - [COLOR yellow]Capítulo 8: Redenção [/COLOR]</title><link>dt8vt4yfpsj2n.cloudfront.net/RCServer08/ondemand/OMNDLRNOSTRWRST01EP08.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+
+<item><title>[B][COLOR red]###[COLOR lime]O Mandaloriano[COLOR yellow] 2ª Temporada[COLOR red]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://media.fstatic.com/KaVo34huu-RcJRPMrB8qniHwpwA=/210x312/smart/media/movies/covers/2020/09/mandalorian_ver7.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01 -[COLOR yellow] Capítulo 9: O Marechal [/B][/COLOR]</title><link>dt8vt4yfpsj2n.cloudfront.net/RCServer04/ondemand/OMNDLRNOSTRWRST02EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 02 -[COLOR yellow] Capítulo 10: O Passageiro [/B][/COLOR]</title><link>dt8vt4yfpsj2n.cloudfront.net/RCServer04/ondemand/OMNDLRNOSTRWRST02EP02.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 03 -[COLOR yellow] Capítulo 11: A Herdeira [/B][/COLOR]</title><link>dt8vt4yfpsj2n.cloudfront.net/RCServer04/ondemand/OMNDLRNOSTRWRST02EP03.mp</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 04 -[COLOR yellow] Capítulo 12: O Cerco [/B][/COLOR]</title><link>dt8vt4yfpsj2n.cloudfront.net/RCServer04/ondemand/OMNDLRNOSTRWRST02EP04.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 05 -[COLOR yellow] Capítulo 13: A Jedi [/B][/COLOR]</title><link>dt8vt4yfpsj2n.cloudfront.net/RCServer04/ondemand/OMNDLRNOSTRWRST02EP05.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 06 -[COLOR yellow] Capítulo 14: A Tragédia [/B][/COLOR]</title><link>dt8vt4yfpsj2n.cloudfront.net/RCServer04/ondemand/OMNDLRNOSTRWRST02EP06.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 07 -[COLOR yellow] Capítulo 15: O Que Acredita [/B][/COLOR]</title><link>dt8vt4yfpsj2n.cloudfront.net/RCServer04/ondemand/OMNDLRNOSTRWRST02EP07.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 08 -[COLOR yellow] Capítulo 16:O Resgate [/B][/COLOR]</title><link>dt8vt4yfpsj2n.cloudfront.net/RCServer15/ondemand/OMNDLRNOSTRWRST02EP08.mp4</link><thumbnail>IGNOREME</thumbnail></item>

@@ -1,0 +1,26 @@
+######################################################################################################################################
+<item><title>[B][COLOR white]Queen, Rock In Rio[COLOR yellow] ( 1985 )[/COLOR][/B]</title>
+<utube>IWUrdWIQcD0</utube>
+<thumbnail>https://studiosol-a.akamaihd.net/uploadfile/letras/albuns/6/9/6/5/950811598444631.jpg</thumbnail><info>[B][COLOR yellow]Um pedaço da história do Rock in Rio: Queen em 1985.Lendário Show da melhor banda de rock de todos os tempos, Queen Live Rock In Rio 1985 [/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]SCORPIONS - Rock In Rio[COLOR yellow] ( 2019 )[/COLOR][/B]</title>
+<link>ignoreme</link>
+<utube>Plugin://plugin.video.youtube/play/?video_id=DVrSN5TUTbg</utube> 
+<thumbnail>https://image.tmdb.org/t/p/w342/sUkdZILmwmNZG8tcw8jIVhR2raL.jpg</thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Vivere: Andrea Bocelli Live in Tuscany [COLOR yellow] ( 2009 )[/COLOR][/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLnZPcXJd8O6KEpUINa8XoMYHRiZBuZV4A/?page=0</jsonrpc>    
+<thumbnail>https://image.tmdb.org/t/p/w342/bVqT7AihTODVJhKRfhyoPaMAEtq.jpg</thumbnail><info>[B][COLOR yellow]Gravado em um teatro construído especialmente para essa apresentação, o tenor superstar Andrea Bocelli apresenta um show que combina um público vibrante ao lado de novas músicas. Entre os convidados estão Heather Headley, Sarah Brightman e Laura Pausini. Os músicos que o acompanham são os ilustres Kenny G e Chris Botti, além do clássico pianista Lang Lang. Setlist: “Melodramma” “Romanza” “A te” “Vivo per lei” “Io ci sarò” “Hungarian Rhapsody” “La voce del silenzio” “Dancing” “Canto della terra” “Bellissime stelle” “Medley: Besame Mucho, Somos Novios (It’s impossible), Can’t Help Falling in Love” “Because we believe” “The Prayer” “Italia” “Dare to live” “Sogno” “Il mare calmo della sera” “Time To Say Goodbye” (Con Te Partiro)[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white] Alice In Chains Rock In Rio[COLOR yellow] ( 2013 )[/COLOR][/B]</title>
+<utube>uCX5sccVT-A</utube>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_g6SsS9l9q7CNSYxLCQ_6Z-zxJCihRw5C3w&usqp=CAU</thumbnail><info>[B][COLOR yellow]A banda tocou hits do grunge, músicas que emocionaram o público como Man in the box e Would. O set-list, com todas as músicas do Alice in Chains no Rock in Rio 2013, foi o seguinte: eles abriram o show com The Bones, seguindo para Dam That River, Hollow, Check my Brain, Agai, Man in the box, Nutshell, Rain when i die, We die young, Stone, Down in a hole, Would e fechando o show com Rooster. De qualquer forma, foi o verdadeiro rock no Rock in Rio', [/COLOR][/B]</info></item>
+https://image.tmdb.org/t/p/w342/9ozYPh3odRQwBYdGwbTbybgMTCY.jpg
+######################################################################################################################################
+<item><title>[B][COLOR white]Red Hot Chili Peppers Rock in Rio[COLOR yellow] ( 2017 )[/COLOR][/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLu-aPIxKxdRYHMilsUwYVRByabPbSw8BX/?page=0</jsonrpc>  
+<thumbnail>https://image.tmdb.org/t/p/w342/qalZXMasgGQdVPVxqCWW6ImE80S.jpg</thumbnail><info>[B][COLOR yellow]A energia emanava do maior palco do mundo e Anthony Kiedis, Flea, Chad Smith e Josh Klinghoffer comandaram uma festa mágica. Em sua terceira passagem pelo Rock in Rio, o quarteto californiano fez show vigoroso, com muita entrega, sessões instrumentais, covers e, claro, sucessos consagrados.[/COLOR][/B]</info></item>
+######################################################################################################################################
+

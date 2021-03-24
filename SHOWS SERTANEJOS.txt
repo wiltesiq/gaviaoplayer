@@ -1,0 +1,56 @@
+######################################################################################################################################
+<item><title>[B][COLOR white]Luan Santana – O Nosso Tempo é Hoje (Ao Vivo)[COLOR yellow] (2013)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=YEPs22t7SPE</link> 
+<thumbnail>https://image.tmdb.org/t/p/w342/rAojPPwX3RIDxpvsjre1JXNVS1R.jpg</thumbnail><info>[B][COLOR yellow]O Nosso Tempo É Hoje é o terceiro álbum ao vivo do cantor brasileiro Luan Santana. O álbum foi gravado em 07 de julho de 2013, na Arena Maeda, em Itu, no estado de São Paulo, e lançado em 21 de outubro do mesmo ano. Gerou três singles oficiais e um promocional. O álbum recebeu certificação de platina pela venda de mais de 100 mil cópias, enquanto o DVD recebeu certificação de platina triplo, pela venda de mais de 150 mil unidades.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Cristiano Araújo – In The Cities – Ao Vivo Em Cuiabá[COLOR yellow] (2014)[/COLOR][/B]</title
+<link>plugin://plugin.video.youtube/play/?video_id=GqS5Iz7U1ag</link> 
+<thumbnail>https://image.tmdb.org/t/p/w342/toWFCj05FiJLShw0P0TDk6V8LlL.jpg</thumbnail><info>[B][COLOR yellow]In the Cities – Ao Vivo em Cuiabá é o terceiro álbum ao vivo e quarto no geral do cantor sertanejo Cristiano Araújo lançado em 17 de novembro de 2014 pela Som Livre[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Henrique & Juliano – Ao Vivo Em Brasília[COLOR yellow] (2014)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=VaRjQ9XfAFo</link> 
+<thumbnail>https://image.tmdb.org/t/p/w342/oSp6nFoiVLv1eA91Ki0I0mn4fET.jpg</thumbnail><info>[B][COLOR yellow]Ao Vivo em Brasília é o segundo álbum ao vivo da dupla sertaneja Henrique & Juliano, lançado em setembro de 2014 pela Som Livre. Gravado em Brasília com a presença de mais de 15 mil fãs. O projeto caminha por canções românticas como “Até Você Voltar”, “Pra Que Juízo” e animadas como “É Fake” e “Gordinho Saliente[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]César Menotti e Fabiano Memórias Anos 80 e 90 Ao Vivo[COLOR yellow] (2015)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=_-vC6K3gYRo</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3TZWZOo2EnhXAyCYVmC0QZfDQsfa1pRXl8Q&usqp=CAU</thumbnail><info>[B][COLOR yellow]O projeto que trouxe releituras dos grandes sucessos dos anos 80 e 90, agora ganhou uma versão ao vivo. Gravado no Villa Country, o novo produto Memórias 80 e 90 Ao Vivo, conta com uma versão em CD (14 Faixas) e em DVD (23 faixas), para mostrar toda irreverência da dupla. Se você gosta de sertanejo de raiz, com certeza vai se identificar com esse novo dvd.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Milionario e Jose Rico Atravessando Gerações vol 1[COLOR yellow] (2020)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=KCs4HjAGEJc</link>
+<thumbnail>https://media.fstatic.com/6-kpQ2LKfvpNVbzz8ntAFTKoZXQ=/195x289/smart/media/movies/covers/2015/09/milionario-jose-rico-atravessando-geracoes_t192482.jpg</thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B]Chico Rey & Paraná - Ao Vivo Vol. 16[COLOR white][COLOR yellow] (2006)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=tkZEsvlpOio</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLLbpqD7FEo3H9t8W-TnyH_FbOSutp5jMg/?page=0
+<thumbnail>https://resources.tidal.com/images/df3a3677/e216/42eb/9a09/aad97fde24f1/640x640.jpg</thumbnail><info>[B][COLOR yellow]Recheado de sucessos, o DVD tem virtudes de sobra para não ser considerado simplesmente mais um produto, mas para figurar em qualquer lista dos melhores trabalhos do ano.
+Reunindo sucessos da dupla e participações pra lá de especiais como Teodoro e Sampaio, Cezar e Paulinho e Eduardo Costa.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white] Milionário & Marciano - Lendas[COLOR yellow] (2016)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=mX3UHC3VxIIt</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLXgZIEbZsqABqXQ-yHOe6TIT3VCtNVCAj/?page=0 
+<thumbnail>https://media.fstatic.com/h1EajCJLTD8U_5Zfz1_3OdCjryI=/210x312/smart/media/movies/covers/2016/06/lendas-milionario-e-marciano_t203638.jpg</thumbnail><info>[B][COLOR yellow]DVD de estréia da dupla sertaneja Milionário & Marciano, que traz no repertório sucessos de Milionário & José Rico e de João Mineiro & Marciano além de duas faixas inéditas.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Gilberto & Gilmar -Ao Vivo No Circo[COLOR yellow] (2008)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=qYW0TfGUs1A</link>
+<thumbnail>https://www.vagalume.com.br/gilberto-e-gilmar/discografia/ao-vivo-no-circo.jpg</thumbnail><info>[B][COLOR yellow]Gravado em um circo, onde tudo começou, o primeiro DVD de Gilberto & Gilmar, intitulado "Uma vida de sucessos" traz 21 sucessos da dupla e alguns convidados especiais.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Gino & Geno - Ao Vivo[COLOR yellow] (2004)[/COLOR][/B]</title>
+
+<link>plugin://plugin.video.youtube/play/?video_id=e-1YsqlB2_M</link>
+<thumbnail>https://imagens.som13.com/202729/gino-e-geno-ao-vivo-em-divinopolis-mg.jpg</thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Teodoro & Sampaio - 30 Anos[COLOR yellow] (2020)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=-ZD6Ef-nyh4</link>
+<thumbnail>https://www.vagalume.com.br/teodoro-e-sampaio/discografia/30-anos-ao-vivo-11.jpg</thumbnail><info>[B][COLOR yellow]O Sampaio, vale lembrar, voltou a ser o Gentil, também conhecido como "Sampaio original". As duas fases da dupla estiveram bem presentes, tanto a romântica, com "Vestido de Seda", "Paixão Proibida" e "Carisma", quanto a bem humorada, com "Ruela do Eno", "Quem tem, tem medo" e "Quem vai mandar no mundo é a mulher". Um dos pontos que mais chamou atenção foram as participações. Milionário e José Rico, que estavam confirmados, não puderam ir. João Neto e Frederico, Evandro e Agnaldo, Leonito e Rick, de gerações mais recentes, agradaram o público, mas os momentos mais aplaudidos foram por conta de duas participações de muita história: Zalo, da dupla Zilo e Zalo, que cantou "A Volta do Seresteiro", e Pedro Bento e Zé da Estrada, que cantaram "Seresteiro da Lua". A Dupla deu muita ênfase à música que será a próxima de trabalho deles, uma inédita chamada "Boi Bilau", com o dupla sentido que todos já devem imaginar. Apesar de o duplo sentido ser a característica mais forte atualmente, a dupla gravou uma canção nova chamada "Bárbara", no estilo romântico que tornou a dupla conhecida no meio sertanejo. Foi um grande DVD, comemorando 30 anos de uma dupla que acabou se tornando o grande exemplo de permanência no mercado, justamente por ter conseguido acertar um novo estilo, muito diferente, quando o mercado dava os primeiros sinais de mudança.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Felipe e Falcão-DVD 20 anos de carreira[COLOR yellow] (2007)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=xnYWWuRS2_w</link>
+<thumbnail>https://1.bp.blogspot.com/-DpBd2dBI4K8/Vopt9VQIyFI/AAAAAAAACF0/YzvOUnXSFms/s1600/FELIPE%2BE%2BFALCAO%2B20%2Banos%2Bao%2BVivo.jpg</thumbnail><info>[B][COLOR yellow]Os grandes sucessos da dupla incluidos nesse dvd em comemoração dos 20 anos de carreira com a participação especial de fatima leão e os filhos do Falcão[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Cristhian E Ralf - Acustico[COLOR yellow] (2004)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=hgDWA6fJmks</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow]gravado em fevereiro de 1998, no Teatro MARS, em São Paulo, marcou os 15 anos de carreira da dupla, que teve enorme sucesso nos anos 80 e 90, e chegou cheio de hits em versão “desplugada”, entre as faixas: “Nova York”, “Chora Peito” e “Cheiro de Shampoo”.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Chrystian & Ralf - Acústico 2[COLOR yellow] (2020)[/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=24zQmL0yXEU</link>
+<thumbnail>https://studiosol-a.akamaihd.net/letras/272x272/albuns/8/3/9/0/788381569613559.jpg</thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
