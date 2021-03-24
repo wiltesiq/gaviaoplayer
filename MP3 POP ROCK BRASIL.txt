@@ -1,0 +1,18 @@
+##########################################################################################################################################
+<item>
+<title>[B][COLOR white]12 HORAS DE POP ROCK BRASILEIRO[COLOR yellow]()[/COLOR][/COLOR][/B]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=oYrwaxdnvek</link> 
+<thumbnail>https://i.pinimg.com/originals/46/c1/5c/46c15c06e24ee34182e5d2f845c3cc61.png</thumbnail></info>[B][COLOR yellow][/COLOR][/B]</info>
+</item> 
+##########################################################################################################################################
+<item>
+<title>[B][COLOR white][COLOR yellow]()[/COLOR][/COLOR][/B]<title>
+<link></link>
+<thumbnail></thumbnail></info>[B][COLOR yellow][/COLOR][/B]</info>
+</item> 
+##########################################################################################################################################
+<item>
+<title>[B][COLOR white][COLOR yellow]()[/COLOR][/COLOR][/B]<title>
+<link></link>
+<thumbnail></thumbnail></info>[B][COLOR yellow][/COLOR][/B]</info>
+</item> 
