@@ -1,16 +1,15 @@
-<channels>
-<channel>
+
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white][/COLOR]BATMAN - FILMES [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/pj6AaYzNoqk5PmXtaCoxmSijWNE=/290x478/smart/media/movies/covers/2019/05/batman1989-187616_x9aoGlA.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/ZYrTBECt</externallink>
-<fanart></fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</info></channels></channel>
-#######################################################################################################################################
-<channels>
-<channel>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20BATMAN%20FILMES.txt</externallink>
+<fanart>https://f001.backblazeb2.com/file/papocine/2014/05/saga-batman-papo-de-cinema-600x342.jpg</fanart>
+<info>[B][COLOR yellow]Batman, Bruce Wayne, o homem morcego, o melhor detetive do mundo, o bilionário sem poderes que usa artes marciais e equipamentos caros para descer a porrada nesses psicopatas que se consideram super-vilões… chame como quiser. O que é inegável é que o morcegão é um dos personagens mais conhecidos de todo o mundo cinematografico. [/COLOR][/B]</info></item>
+##################################################################################################################################
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]BATMAN - ANIMAÇÃO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/FD8SCy-2FBJmzGL024glQXJQ9NQ=/290x478/smart/media/movies/covers/2017/05/bat.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/ApWqpXXU</externallink>
-<fanart></fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</info></channels></channel>
-#######################################################################################################################################
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20BATMAN%20ANIMA%C3%87%C3%83O.txt</externallink>
+<fanart>https://terraverso.com.br/wp-content/uploads/2019/09/batmanday.jpg</fanart>
+<info>[B][COLOR yellow]franquia de mídia americana e um universo compartilhado, centrado em uma série de filmes animados  do famoso super heroi batman , baseados nas histórias em quadrinhos publicadas pela DC Comics, e apresentam elementos de enredos inspirados na aventura do famoso super heroi contra seus inimigos vilões[/COLOR][/B]</info></item>
+##################################################################################################################################
