@@ -1,0 +1,62 @@
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow] ###########[COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR yellow]###########[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]###[COLOR lime]ARQUIVO X -O Filme[COLOR yellow](1998)[COLOR red]###[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer5/ondemand/ARQVXOFLME.mp4</link><thumbnail>https://megafilmeshd50.com/wp-content/uploads/2017/12/l3umPrC6vEOhv3yabewqLcRFTLO-185x278.jpg</thumbnail><info>[B][COLOR yellow][/COLOR]Dois agentes do FBI, que foram até Dallas, Texas tentar evitar que um prédio federal explodisse em um atentado terrorista, ficam estarrecidos quando descobrem que a explosão no qual supostamente morreram três bombeiros e uma criança foi causada pelo próprio governo, para tentar abafar o caso de um vírus alienígena, que esteve adormecido por milhares de anos e agora volta superfície. Apenas um médico (Martin Landau), que conhece a realidade dos fatos, tenta alertá-los, mas agentes do governo o perseguem e fazem de tudo para que ele seja desacreditado.[/B]<info></item>
+<item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+
+<item><title>[B][COLOR yellow]### [COLOR white] ARQUIVO X  [COLOR lime]1ª TEMPORADA COMPLETA[COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0239FB007AECE959E565C5B17441ED9AE51C7D61</link><thumbnail>https://media.fstatic.com/YgM3uE3jr5mze4YXIUTf9qW1UmI=/210x312/smart/media/movies/covers/2012/05/e4adac4cac43521eda980f2580c10f46.jpg</thumbnail></item>
+
+<item><title>[B][COLOR yellow]### [COLOR white] ARQUIVO X  [COLOR lime]2ª TEMPORADA COMPLETA[COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AFA432C832E5B7FAE59CB3C1CBE900AF6A44041E</link><thumbnail>https://media.fstatic.com/_9hP1_xjAAKluRnwSMhwaVMi02A=/290x478/smart/media/movies/covers/2011/01/9138da5d6198999d60ec2884b4f26ea3.jpg</thumbnail></item>
+
+<item><title>[B][COLOR yellow]### [COLOR white] ARQUIVO X  [COLOR lime]3ª TEMPORADA COMPLETA[COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38EFCAE6229FB0B9647CEBADF4B4A3FC5BE7D831</link><thumbnail>https://media.fstatic.com/yLSwVv-po2dgHp1Dx2iPxj2OdL4=/210x312/smart/media/movies/covers/2012/05/5bec0a781ec98c263468cf187fb4ffbb.jpg</thumbnail></item>
+
+<item><title>[B][COLOR yellow]### [COLOR white] ARQUIVO X  [COLOR lime]4ª TEMPORADA COMPLETA[COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:607B379349E65D8D213C6D1239383D3BE0968CD7</link><thumbnail>https://media.fstatic.com/p3hXZ1JRWkcKY0CqK8XDz3oYeiM=/290x478/smart/media/movies/covers/2010/01/959e29173e4f2e98308ab1180f10bed8.jpg</thumbnail></item>
+
+<item><title>[B][COLOR yellow]### [COLOR white] ARQUIVO X  [COLOR lime]5ª TEMPORADA COMPLETA[COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0FB0329A3F0D7E54CB1198F21A0D5DED4D05F178</link><thumbnail>https://media.fstatic.com/XCrTlFXqgPOuD6lN70MZjHthYK8=/290x478/smart/media/movies/covers/2010/01/1c9ea8150328b60e2e9c06484f7c8bfa.jpg</thumbnail></item>
+
+<item><title>[B][COLOR yellow]### [COLOR white] ARQUIVO X  [COLOR lime]6ª TEMPORADA COMPLETA[COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:117B4F45255819C04CFF985079B2B4DD16467347</link><thumbnail>https://media.fstatic.com/92G9Ieyufg2Ik7Lt45b6EMmJYgQ=/210x312/smart/media/movies/covers/2010/01/07f30cf7c886cf74df542130de2776b4.jpg</thumbnail></item>
+
+<item><title>[B][COLOR yellow]### [COLOR white] ARQUIVO X  [COLOR lime]7ª TEMPORADA COMPLETA[COLOR yellow]###[/COLOR][/B]</title>
+<link>magnet:?xt=urn:btih:79962b989531e93b7fef0126c00c46938ab61632</link><thumbnail>https://media.fstatic.com/msMfutmewf7R7T-EBtnFsZAgNvU=/210x312/smart/media/movies/covers/2010/01/38edf48645863f283b47b687fbcd75e1.jpg</thumbnail></item>
+
+ <item><title>[B][COLOR yellow]### [COLOR white] ARQUIVO X  [COLOR lime]8ª TEMPORADA COMPLETA[COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:022d3d74e04ae9c6dd69f4a56a9930c764a86bb1</link><thumbnail>https://media.fstatic.com/z1YtuYTNqt5-v7qWQn3KNGXtj5U=/210x312/smart/media/movies/covers/2012/05/6497b046f3d88d1842e9c8b57f0419c7.jpg</thumbnail></item>
+
+<item><title>[B][COLOR yellow]### [COLOR white] ARQUIVO X  [COLOR lime]9ª TEMPORADA COMPLETA[COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2baaa0fd7431782b74420362ba8bd7299a9af6c</link><thumbnail>https://media.fstatic.com/aFtEDtm_GY61XQk8dfLZFn6_uvI=/290x478/smart/media/movies/covers/2012/05/339f0b5d32ef3ea5fb073d936c8bf0ae.jpg</thumbnail></item>
+
+<item><title>[B][COLOR yellow]### [COLOR white]ARQUIVO X [COLOR lime]10ª TEMPORADA COMPLETA[COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44099dd318dfbc8689b42be3dfb2528dbcc8e8a3</link><thumbnail>https://media.fstatic.com/lmtW_SZNqYxnDcp8pl099gfYUuw=/290x478/smart/media/movies/covers/2016/01/arquivo-x-10a-temporada_t120625.jpg</thumbnail></item>
+
+<item><title>[B][COLOR yellow]### [COLOR white]ARQUIVO X [COLOR lime]11ª TEMPORADA COMPLETA[COLOR yellow]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2016/11/XFiles.png</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01  [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3A980E516F40E084A994C647C7762AC298385108</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 02  [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5BD1149DE7194C41D034D2F572FAA0113E6F89EC</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 03  [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0344C1414B71CFBC0D17551C51C4FBD10C424A84</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 04/05  [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A4EFA4E2F68199683F76AE6497A96B7E8BC7653D</link><thumbnail>IGNOREME</thumbnail></item>
+
+ <item><title>[B][COLOR white]EP 06  [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BE0E488B520BC71A95FEA1DCB729270F24EFCAF6</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 07  [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FABB9E49C001EB354D72B6F69FABCA9CAED4F268</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 08  [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A72CA3731EEE9AD85F0152A7FEF6399D191E1F71</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 09  [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e462b692471783727eacba3ad110b8f23be7ef67</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 10  [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:554486df48026c50b48590e51b536edd147d3450</link><thumbnail>IGNOREME</thumbnail></item>

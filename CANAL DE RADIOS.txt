@@ -1,0 +1,13 @@
+<item>
+<name>[B][COLOR gold]|||[/COLOR][COLOR lime]|||[/COLOR][COLOR crimson]|||[/COLOR] [COLOR yellow]CANAL 1[/COLOR] [COLOR crimson]|||[/COLOR][COLOR lime]|||[/COLOR][COLOR gold]|||[/COLOR][/B]</name>
+<thumbnail>https://teletronix.com.br/wp-content/uploads/2019/02/262121-radio-online-e-radio-tradicional-aprenda-as-diferencas.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/ZqygT3hV</externallink>
+<fanart>https://archive.org/details/fanart_20191012</fanart>
+<info>[B][COLOR yellow][/COLOR][/B]</info></item>
+###################################################################################################################################
+<item>
+<name>[B][COLOR gold]|||[/COLOR][COLOR lime]|||[/COLOR][COLOR crimson]|||[/COLOR] [COLOR yellow]CANAL 2[/COLOR] [COLOR crimson]|||[/COLOR][COLOR lime]|||[/COLOR][COLOR gold]|||[/COLOR][/B]</name>
+<thumbnail>https://teletronix.com.br/wp-content/uploads/2019/02/262121-radio-online-e-radio-tradicional-aprenda-as-diferencas.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/TDEykY7M</externallink>
+<fanart>https://archive.org/details/fanart_20191012</fanart>
+<info>[B][COLOR yellow][/COLOR][/B]</info></item>

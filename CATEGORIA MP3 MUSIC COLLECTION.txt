@@ -1,0 +1,28 @@
+<item>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]POP ROCK BRASIL[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/rspNkL90/POP-ROCK-BRASIL.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/N3CnUVGT</externallink>
+<fanart>https://i.postimg.cc/65G7YtL1/FANART-MUSICA.jpg</fanart>
+<info>[B][COLOR yellow][/COLOR][/B]</info></item>
+####################################################################################
+<item>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SOM BRASIL[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/9FrYgCMs/Som-Brasil.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/54xgesQ9</externallink>
+<fanart>https://i.postimg.cc/65G7YtL1/FANART-MUSICA.jpg</fanart>
+<info>[B][COLOR yellow][/COLOR][/B]</info></item>
+####################################################################################
+<item>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white][/COLOR]SERTANEJO [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/c1DccrsQ/SERTANEJO2.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/6B05Sd4Z</externallink>
+<fanart>https://i.postimg.cc/65G7YtL1/FANART-MUSICA.jpg</fanart>
+<info>[B][COLOR yellow][/COLOR][/B]</info></item>
+####################################################################################
+<item>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white][/COLOR]POP ROCK INTERNACIONAL [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/MT5mNG1J/pop-rock-internacional.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/C31ASks7</externallink>
+<fanart>https://i.postimg.cc/65G7YtL1/FANART-MUSICA.jpg</fanart>
+<info>[B][COLOR yellow][/COLOR][/B]</info></item>
+####################################################################################
