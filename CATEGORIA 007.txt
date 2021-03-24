@@ -1,13 +1,13 @@
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]007 SERVIDOR 1[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://abutretorrents.com/capas/007-colecao-completa-james-bond-todos-os-filmes-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/bt2i5UD6</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20007%20SERVIDOR%201%20TORRENTE.txt</externallink>
 <fanart>https://www.ganhador.com/app/uploads/2020/04/007.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
 ##########################################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]007 SERVIDOR 2[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://abutretorrents.com/capas/007-colecao-completa-james-bond-todos-os-filmes-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/m5vgvb2t</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20007%20SERVIDOR%202%20RC.txt</externallink>
 <fanart>https://www.ganhador.com/app/uploads/2020/04/007.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS DIRETOS,POREM AS VEZES FICAM OFF LINE,MAS LOGO VOLTA A FICAR ON LINE.[/COLOR][/B]</info></item>
