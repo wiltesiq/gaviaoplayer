@@ -1,3 +1,8 @@
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
 ######################################################################################################################################
 <item><title>[B][COLOR yellow]COLEÇÃO 007[COLOR lime] TODOS OS FILMES[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5657259266875D041EA818D3151E618779BA14F7</link><thumbnail>https://abutretorrents.com/capas/007-colecao-completa-james-bond-todos-os-filmes-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail><info>[B][COLOR yellow]Todos os filmes completos e dublados da franquia do espião 007 - James Bond em bluray 1080p com canais de áudio 5.1 em Full HD. Coleção completa com todos os filmes, do primeiro filme até o último lançado e 2015. [/COLOR][/B]</info></item>
