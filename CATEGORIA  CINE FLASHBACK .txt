@@ -50,9 +50,9 @@
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow] ROMANCE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/9Mg6DMLk/cine-flashback-romance.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/fbhJ8abp</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/CINE%20FLASHBAK%20ROMANCE.txt</externallink>
 <fanart>https://i.postimg.cc/d110cxVZ/flashback-romantico.jpg</fanart>
-<info>[B][COLOR yellow]FILMES ROMANTICOS ANTIGOS QUE FIZERAM SUCESSOS EM SUA EPOCA[COLOR lime]|[/COLOR][/B]</info>
+<info>[B][COLOR yellow]FILMES ROMANTICOS ANTIGOS QUE FIZERAM SUCESSOS EM SUA EPOCA|[/COLOR][/B]</info>
 </item>
  
  
