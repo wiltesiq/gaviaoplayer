@@ -1,14 +1,14 @@
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES LEGENDADOS [COLOR yellow]2021[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/QxjrVXjH/filmes-legendados2021.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/tuf6hHkL</externallink>
+<thumbnail>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/FILMES%20LEGENDADOS%202021.txt</thumbnail>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/FILMES%20LEGENDADOS%202020.txt</externallink>
 <info>[B][COLOR yellow]LOCAL PARA QUEM GOSTE DE FILMES COM SOM ORIGINAL,AQUI ESTÃO FILMES LEGENDADOS  LANÇADOS EM 2021, TODOS EM ARQUIVOS TORRENTES, É NESCESSARIO TER O ADDON ELEMENTUM  E O ELEMENTUM BURST INSTALADOS PARA ABRIR OS LINKS.[/COLOR][/B]</info>
 </item>
 ##########################################################################################################################################
  <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES LEGENDADOS  [COLOR yellow]2020[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/MZ7SW-c2C/filmes-legendados2020.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/X05VMhe7</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/FILMES%20LEGENDADOS%202020.txt</externallink>
 <info>[B][COLOR yellow]LOCAL PARA QUEM GOSTE DE FILMES COM SOM ORIGINAL,AQUI ESTÃO FILMES LEGENDADOS  LANÇADOS EM 202O, TODOS EM ARQUIVOS TORRENTES, É NESCESSARIO TER O ADDON ELEMENTUM  E O ELEMENTUM BURST INSTALADOS PARA ABRIR OS LINKS.[/COLOR][/B]</info>
 </item>
 
