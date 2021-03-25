@@ -1,42 +1,42 @@
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ANACONDA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/FNlRHei9SDdlMSXyvzn0A4R42yw=/290x478/smart/media/movies/covers/2009/02/584aa81971082cf28746d287b16eb9e1.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/dr4KpfDn</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20ANACONDA.txt</externallink>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdzvAjXCbpFVbRh-NL8oZFjFt6kFwfNDVdcw&usqp=CAU</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</info></item>
-######################################################################################################################################
+<info>[B][COLOR yellow]Cada filme gira em torno de sucuris comedoras de homens gigantes e os esforços de vários grupos de pessoas para capturar ou destruir as criaturas. A planta fictícia conhecida como Blood Orchid e a empresa Wexel Hall Pharmaceuticals, bem como a fictícia família Murdoch, são repetidamente mencionadas nos filmes.[/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]A MUMIA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/O1Dod8MPE97xHvi1OOVdna-dFtg=/290x478/smart/media/movies/covers/2014/06/a-mumia_t113.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/dd68NMbu</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20A%20MUMIA.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/9a9GpRaCkdcPfa5z0vPQj9ldtQh.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</info></item>
-######################################################################################################################################
+<info>[B][COLOR yellow]As aventuras de Rick O'Connell, interpretado brilhantemente por Brendan Fraser, e suas malucas e divertidas idéias para escapar de perigosas armadilhas nesta trilogia exclusiva do grande clássico A Múmia[/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]BRADDOCK[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AonSSoJOFIbOubZt0gMBIZvw9MH.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/majcHNBB</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20BRADDOCK.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/hXRDREMveK8niPh9o3eD71Dm4HR.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</info></item>
-######################################################################################################################################
+<info>[B][COLOR yellow]O coronel das Forças Especiais James Braddock precisa trazer de volta soldados norte- americanos que ainda estão sendo mantidos como prisioneiros no Vietnã. Contando com a ajuda da funcionária do Departamento de Estado e de um ex-colega de Exército, Braddock reúne informações altamente confidenciais e armamentos de última geração. Ele forma, então, um exército de um homem só, disposto a invadir o Vietnã para localizar e salvar seus companheiros restantes desaparecidos em combate. [/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]DURO DE MATAR[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/rauTKnFle1sp4aXjtYgx4tCWNiK.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/YNbyU7Nq</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20DURO%20DE%20MATAR.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/hQ0k6RJwcWLJEHfP5vxrDpMiRdk.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<info>[B][COLOR yellow]Uma série de filmes de ação centrada no personagem John McClane, um detetive da polícia de Nova York que se vê lutando contra um grupo de terroristas em cada filme.[/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]EM NOME DO REI[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4QP0pbVKepSDjkQwWfhXxKknE1z.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/9tznYLkh</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20EM%20NOME%20DO%20RE.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/qtmwb0iF41DhfZIXvuk0TIXu23p.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</info></item>
-######################################################################################################################################
+<info>[B][COLOR yellow]Uma saga épica de fantasia, baseada na série de jogos mais conhecida da Microsoft, Dungeon Siege. O Poderoso Rei Konreid (Burt Reynolds) precisa defender seu castelo e seu povo do diabólico Gallian (Ray Liotta), que quer derrubá-lo. Um exército aterrorizante de monstros guerreiros, conhecidos como Krugs, é enviado pelo vilão para invadir o reino em busca do rei. A vida de um homem simples chamado Farner (Jason Statham) muda para sempre quando o Krugs destroem sua pacífica comunidade. Depois de ter seu filho assassinado e sua mulher (Claire Forlani) seqüestrada, ele está determinado a se vingar e parte em busca da esposa. Mas o que ele encontra durante a jornada vai revelar muito mais sobre seu destino do que ele poderia prever. [/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SUPERMAN[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://media.fstatic.com/S9cGoZiSP_QWHqPNhXjF2RiM8c0=/290x478/smart/media/movies/covers/2014/09/superman-o-filme_t1083_2.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/wzZGZwV1</externallink>
-<fanart></fanart>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2f9tXyqJqHxYYJXiKQvlz07976e.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/CATEGORIA%20%20SUPERMAN%20.txt</externallink>
+<fanart>https://vejasp.abril.com.br/wp-content/uploads/2018/05/capa6.jpg?quality=70&strip=info&resize=680,453</fanart>
 <info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
