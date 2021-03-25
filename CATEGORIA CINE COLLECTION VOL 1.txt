@@ -24,321 +24,325 @@
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51WzVPOsmsL.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20CREPUSCULO.txt</externallink>
 <fanart>https://www.vagalume.com.br/dynimage/news3269-big.jpg</fanart>
-<info>[B][COLOR yellow]A saga Crepúsculo é uma serie de filmes de fantasia e romance, escrito por Stephenie Meyer, e aborda o relacionamento entre uma adolescente humana  e um vampiro.[/COLOR][/B]</item>
+<info>[B][COLOR yellow]A saga Crepúsculo é uma serie de filmes de fantasia e romance, escrito por Stephenie Meyer, e aborda o relacionamento entre uma adolescente humana  e um vampiro.[/COLOR][/B]</info></item>
 ###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ALIEN[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.pinimg.com/originals/14/40/a6/1440a6f863758811ea8b954d5a555397.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20ALIENS.txt</externallink>
 <fanart>https://www.cineset.com.br/wp-content/uploads/2016/10/Aliens-O-Resgate-e1491785686820.jpg</fanart>
-<info>[B][COLOR yellow]Mesclando ficção científica, horror e ação como ninguém, a saga de Alien já passou por poucas e boas, com pontos altos e baixos e várias reviravoltas ao longo dos anos. De grandes histórias de horror com isolamento a crossovers podres de tão ruim, a trama dos Xenomorfos nos levou a lugares sombrios do espaço.[/COLOR][/B]</item>
+<info>[B][COLOR yellow]Mesclando ficção científica, horror e ação como ninguém, a saga de Alien já passou por poucas e boas, com pontos altos e baixos e várias reviravoltas ao longo dos anos. De grandes histórias de horror com isolamento a crossovers podres de tão ruim, a trama dos Xenomorfos nos levou a lugares sombrios do espaço.[/COLOR][/B]</info></item>
 ###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]BATMAN[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/FOnZzQN2T9ZZNfKeSkvQNcVVdto=/290x478/smart/media/movies/covers/2019/05/MV5BNjc1ZDhmOTgtNGM5NC00NTRmLWI1OWQtMDIzZDg2ZGE1ODM3XkEyXkFqcGdeQX_6DyyZwT.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/CATEGORIA%20COLE%C3%87%C3%83O%20BATMAN.txt</externallink>
 <fanart>https://media.fstatic.com/yOxOgVhHkN4idSSPBcCNgGvaPkY=/600x250/smart/media/articles/main/2016/08/18/602x0_1471532364-1724783869.jpg</fanart>
-<info>[B][COLOR yellow]Batman, Bruce Wayne, o homem morcego, o melhor detetive do mundo, o bilionário sem poderes que usa artes marciais e equipamentos caros para descer a porrada nesses psicopatas que se consideram super-vilões… chame como quiser. O que é inegável é que o morcegão é um dos personagens mais conhecidos de todo o mundo pop. [/COLOR][/B]</item>
+<info>[B][COLOR yellow]Batman, Bruce Wayne, o homem morcego, o melhor detetive do mundo, o bilionário sem poderes que usa artes marciais e equipamentos caros para descer a porrada nesses psicopatas que se consideram super-vilões… chame como quiser. O que é inegável é que o morcegão é um dos personagens mais conhecidos de todo o mundo pop. [/COLOR][/B]</info></item>
 ###############################################################################################################################
  <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]BUSCA EXPLOSIVA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://ondebaixa.com/capa/busca-explosiva-todos-os-filmes-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20BUSCA%20EXPLOSIVA.txt</externallink>
 <fanart>https://images.justwatch.com/backdrop/166486581/s480/busca-explosiva-3</fanart>
-<info>[B][COLOR yellow]Todos os filmes da franquia Busca Explosiva (The Marine) do primeiro ao sexto filme. JOHN CENA, o CAMPEÃO DA WWE, domina a cena no papel do fuzileiro John Triton. Onde quer que haja perigo, lá está Triton detonando. e ele não joga seguindo as regras! Após Triton ser enviado de volta da Guerra do Iraque, Kate, sua linda esposa (Kelly Carlson de Nip/Tuck), é seqüestrada por impiedosos ladrões de jóias comandados por um implacável assassino (Robert Patrick)! Agora, Triton precisa lutar para salvá-la, usando sua arma mais poderosa: ele mesmo![/COLOR][/B]</item>
+<info>[B][COLOR yellow]Todos os filmes da franquia Busca Explosiva (The Marine) do primeiro ao sexto filme. JOHN CENA, o CAMPEÃO DA WWE, domina a cena no papel do fuzileiro John Triton. Onde quer que haja perigo, lá está Triton detonando. e ele não joga seguindo as regras! Após Triton ser enviado de volta da Guerra do Iraque, Kate, sua linda esposa (Kelly Carlson de Nip/Tuck), é seqüestrada por impiedosos ladrões de jóias comandados por um implacável assassino (Robert Patrick)! Agora, Triton precisa lutar para salvá-la, usando sua arma mais poderosa: ele mesmo![/COLOR][/B]</info></item>
 ###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]BUSCA IMPLACAVEL[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://lojasaraiva.vteximg.com.br/arquivos/ids/706681/123520847.jpg?v=636966316633830000</thumbnail>
 <externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20BUSCA%20IMPLACAVEL.txt</externallink>
 <fanart>https://www.proibidoler.com/wp-content/uploads/2016/04/busca-implacavel-resumiram-a-trilogia-em-apenas-90-segundos.jpeg</fanart>
-<info>[B][COLOR yellow]Nessa frankia com tres filmes de muita ação Bryan Mills (Liam Neeson) ex agente da cia se tranforma quando sua filha esta em perigo,não brinque, não discuta e não faça nada com a filha de Bryan Mills.pois ele fara de tudo para encontra-la e punir os vilões [/COLOR][/B]</item>
+<info>[B][COLOR yellow]Nessa frankia com tres filmes de muita ação Bryan Mills (Liam Neeson) ex agente da cia se tranforma quando sua filha esta em perigo,não brinque, não discuta e não faça nada com a filha de Bryan Mills.pois ele fara de tudo para encontra-la e punir os vilões [/COLOR][/B]</info></item>
 ###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CARGA EXPLOSIVA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/o6DnRqCvnG-o5CkNuYS3TBW3y-k=/290x478/smart/media/movies/covers/2014/06/carga-explosiva_t302.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20CARGA%20EXPLOSIVA.txt</externallink>
 <fanart>https://cdn.fstatic.com/media/movies/photos/2016/03/carga-explosiva-o-legado_t79463.jpg</fanart>
-<info>[B][COLOR yellow]Carga Explosiva é uma franquia que já rendeu três filmes estrelados pelo calvo Jason Statham como o motorista que entrega suas encomendas sem fazer nenhuma pergunta.Ele possui, entretanto, três regras: o acordo não pode ser mudado, não quer saber o nome do cliente, e jamais olha dentro do pacote que lhe confiam. [/COLOR][/B]</item>
-######################################################################################################################################
+<info>[B][COLOR yellow]Carga Explosiva é uma franquia que já rendeu três filmes estrelados pelo calvo Jason Statham como o motorista que entrega suas encomendas sem fazer nenhuma pergunta.Ele possui, entretanto, três regras: o acordo não pode ser mudado, não quer saber o nome do cliente, e jamais olha dentro do pacote que lhe confiam. [/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CORAÇÃO DE DRAGÃO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/GWyjOQsANUph-vXEzdmSqFtW8Ho=/195x289/smart/media/movies/covers/2012/01/c95c10f436d9566d903e1543a65daa29.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20CORA%C3%87%C3%83O%20DE%20DRAG%C3%83O.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/oASfjqueQdR0wpeI2Q4xW2mSaZ.jpg</fanart>
-<info>[B][COLOR yellow]Aventuras de um jovem cavaleiro medieval Gareth (Julian Morris),um dragao. aventura heróica que resplandece com muita ação,fantasia e humor. Dragonheart é uma aventura épica que vai emocionar todos família.[/COLOR][/B]</item>
-######################################################################################################################################
+<info>[B][COLOR yellow]Aventuras de um jovem cavaleiro medieval Gareth (Julian Morris),um dragao. aventura heróica que resplandece com muita ação,fantasia e humor. Dragonheart é uma aventura épica que vai emocionar todos família.[/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CORRIDA MORTAL[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://infonet.com.br/wp-infonet/img/Cinema/grande-corrida_mortal.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20CORRIDA%20MORTAL.txt</externallink>
 <fanart>http://www.superamiches.com/wp-content/uploads/2017/01/Death-Race-1-5.jpg</fanart>
-<info>[B][COLOR yellow]franquia de combate de carros que engloba uma série de filmes e outras mídias centrada em um reality show ambientado em uma prisão, onde presidiários competem uns contra os outros para ganhar sua liberdade. Death Race (franquia) - https://pt.qaz.wiki/wiki/Death_Race_(franchise)[/COLOR][/B]</item>
-######################################################################################################################################
+<info>[B][COLOR yellow]franquia de combate de carros que engloba uma série de filmes e outras mídias centrada em um reality show ambientado em uma prisão, onde presidiários competem uns contra os outros para ganhar sua liberdade. Death Race (franquia) - https://pt.qaz.wiki/wiki/Death_Race_(franchise)[/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]DESEJO DE MATAR[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/Of2t_XU3DvkE_wkR-IbXux-GED4=/290x478/smart/media/movies/covers/2018/11/e524ad00-53cb-012f-db6c-00505694738d.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20DESEJO%20DE%20MATAR.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/koT46pyZQYoOYEXHcMTS4Kt6WNh.jpg</fanart>
-<info>[B][COLOR yellow]a longa trajetória do vigilante Paul Kersey(Charles Bronson) no cinema. O primeiro filme da frankia foi pioneiro no quesito “homem comum resolve fazer justiça com as próprias mãos após o sistema falhar com ele[/COLOR][/B]</item>
-######################################################################################################################################
+<info>[B][COLOR yellow]a longa trajetória do vigilante Paul Kersey(Charles Bronson) no cinema. O primeiro filme da frankia foi pioneiro no quesito “homem comum resolve fazer justiça com as próprias mãos após o sistema falhar com ele[/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]EFEITO BORBOLETA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w500/8u1vnFy6Dml73Kb4GGgZkRQlEPk.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20EFEITO%20BORBOLETA.txt</externallink>
 <fanart>http://noset.com.br/wp-content/uploads/2017/01/3-35.jpg</fanart>
-<info>[B][COLOR yellow]Efeito Borboleta é um impressionante frankia de ficção científica e suspense psicológico , estrelado por Ashton Kutcher e Amy Smart. Com uma história de linha temporal como poucas vistas, Efeito Borboleta impressiona do inicio ao fim, com o pouco que tem, mas com um dos roteiros mais inteligentes de filme de suspense e terror que já vi, você não sabe como o filme pode acabar ou quando vai acabar com tanta possibilidades. [/COLOR][/B]</item>
-######################################################################################################################################
+<info>[B][COLOR yellow]Efeito Borboleta é um impressionante frankia de ficção científica e suspense psicológico , estrelado por Ashton Kutcher e Amy Smart. Com uma história de linha temporal como poucas vistas, Efeito Borboleta impressiona do inicio ao fim, com o pouco que tem, mas com um dos roteiros mais inteligentes de filme de suspense e terror que já vi, você não sabe como o filme pode acabar ou quando vai acabar com tanta possibilidades. [/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ELA DANÇA,EU DANÇO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdcpRdrEtvXINLCBv2lko7uxwVo.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/yk8qqDZQ</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20ELA%20DAN%C3%87A%20EU%20DAN%C3%87O.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/zIYSz2EpMwe3MpdlwGrEPuK4UZR.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<info>[B][COLOR yellow]A franquia Step Up (Brasil: Ela Dança, Eu Danço) é uma serie de filmes de drama, romance e musical lançado em 2006. Mostra o universo do hip-hop e do balé clássico. [/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]GUERRA NAS ESTRELAS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://1.bp.blogspot.com/-OCk-fvcs2f0/Xa81sFGwLiI/AAAAAAAAaYM/_63nRuz47OsDV6OfjiA3XR38M4Cs0_gAwCLcBGAsYHQ/s1600/Saga%2BStar%2BWars.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/zhRcM8Da</externallink>
-<fanart>https://d1aqqgu1sbyyk.cloudfront.net/wp-content/uploads/2019/12/maxresdefault-1.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item> 
-######################################################################################################################################
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20GUERRA%20NAS%20ESTRELAS.txt</externallink>
+<fanart>https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q80/wp-content/uploads/2020/08/legiao_Bdzx8Wgcw92V.png.jpeg</fanart>
+<info>[B][COLOR yellow]O universo de Star Wars é repleto de elementos característicos, como a Força, além de nomes de planetas e raças de personagens. Existe dois termos que são muito importantes para entender a saga: Jedi e Sith. Basicamente, a luta do "bem" contra o "mal", ambos usam o poder da Força, uma energia que traz equilíbrio e une o universo como ele é.[/COLOR][/B]</info></item> 
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]HARRY POTTER[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://cdn.fstatic.com/public/articles/files/2014/11/31a81d20-23be-41e8-a961-0615456ec87b.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/JTZ1Vw9a</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20HARRY%20POTTER.txt</externallink>
 <fqanart>https://image.tmdb.org/t/p/original/cbcpDn6XJaIGoOil1bKuskU8ds4.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<info>[B][COLOR yellow]Uma das franquias mais queridas de todos os tempos, a saga de Harry Potter se tornou um grande fenômeno na cultura pop, movendo toda uma geração que sonhou com o mundo fantástico na Escola de Magia e Bruxaria de Hogwarts. Ao longo  oito filmes, nos encantamos cada vez mais com o universo habitado por bruxos, feiticeiros, elfos domésticos, dragões, basiliscos e duendes. [/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]HIGHLANDER[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://picfiles.alphacoders.com/797/79796.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/wsEAGzdB</externallink>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRdWMEpYmW4SvccWaD3iln4fBemU-VLwfMJmVAgN_Jveviz_tYmWCTllmA98WQHDHTnfQ&usqp=CAU</thumbnail>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20HIGHLANDER.txt</externallink>
 <fanart>https://www.einerd.com.br/wp-content/uploads/2020/06/highlander-e1593436715735-890x464.jpeg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<info>[B][COLOR yellow]Highlander é uma franquia de filme e televisão americano-britânica criada por Gregory Widen . A série começou com um filme de fantasia de 1986 estrelado por Christopher Lambert , que interpretou Connor MacLeod , o Highlander titular. Nascido em Glenfinnan, nas Terras Altas da Escócia, no século 16, MacLeod é um dos vários imortais habilitados por uma energia chamada Quickening e só pode morrer se for decapitado. [/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]INDIANA JONES[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR31xW0PmAVLlEn3IYqn5kzzd8sn9GEEbJNQLE5LEqEL1eh2NFf</thumbnail>
-<externallink>https://pastebin.com/raw/zkTpMndF</externallink>
+<thumbnail>https://encrypted-tbn0.gstatic.cm/images?q=tbn%3AANd9GcR31xW0PmAVLlEn3IYqn5kzzd8sn9GEEbJNQLE5LEqEL1eh2NFf</thumbnail>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20INDIANA%20JONES.txt</externallink>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRrkJ1wMLVxT-ugT7dHRjLIkQNRUlb7pdw9RT0d-kVnmJSkDyGF</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<info>[B][COLOR yellow]Indiana Jones é uma franquia de mídia estadunidense criada pelo cineasta George Lucas e baseada nas aventuras do personagem homônimo, um arqueólogo e explorador fictício. A franquia teve início em 1981 com o lançamento de Raiders of the Lost Ark, seu primeiro filme. Em 1984, foi lançada a prequela Indiana Jones and the Temple of Doom e em 1989 a sequência Indiana Jones and the Last Crusadeúltimo distribuído pela Paramount Pictures. A franquia criada por George Lucas é estrelada por Harrison Ford e teve seus filmes dirigidos por Steven Spielberg, sendo uma das mais memoráveis sequências do cinema norte-americano.[/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]JASON BOURNE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNmE0YjJlNzctZjdiMy00ZWZmLWIzYzYtMGIxNDNjZDkxZmQyXkEyXkFqcGdeQXVyMTE5NzI0NDM@._V1_SY1000_SX750_AL_.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/dXkTD9jR</externallink>
-<fanart>https://ogimg.infoglobo.com.br/in/19774691-7a4-3d7/FT1086A/652/xJason-Bourne-2016-2.jpg.pagespeed.ic.xO2L1OgN0_.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20JASON%20BOURNE.txt</externallink>
+<fanart>https://cdn.cinepop.com.br/2019/10/jason-bourne-damon-vikander-1024x512.jpg</fanart>
+<info>[B][COLOR yellow]Bourne é uma série de filmes alemã-americana de ação, espionagem e suspense. É baseada no personagem literário Jason Bourne, interpretado nas adaptações por Matt Damon. Bourne é homem que sofre de perda de memória extrema e que precisa descobrir quem ele é.][/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]JOGOS VORAZES[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/CQ2-36VcRm25uTNN56BhBqCMtvk=/290x478/smart/media/movies/covers/2011/12/5e20ba2d5072f9ff5661fb1ddf37deb4.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/S4jWB29t</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20JOGOS%20VORAZES.txt</externallink>
 <fanart>https://cdn.fstatic.com/public/articles/files/2013/11/b8689968-f609-4c54-bef1-20a67f1ba695.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<info>[B][COLOR yellow]Anos após a guerra que destruiu a América do Norte, o país se reorganizou em distritos que juntos formam a chamada Panem. A cada um dos 12 distritos foi indicada uma tarefa de produção (agricultura, mineração, etc). Para evitar uma nova rebelião da população, o governo criou os Jogos Vorazes.
+No chamado Dia da Colheita, um garoto e uma garota entre 12 e 18 anos são sorteados em cada distrito para lutarem por sua sobrevivência nos Jogos Vorazes, que é exibido para todo o país, como forma de demonstrar a hegemonia do governo. Apenas um pode vencer, ou seja, apenas um jovem sai vivo do doentio jogo.
+Enquanto os distritos sofrem ainda com a pobreza e as péssimas condições de vida diariamente, a Capital vive de luxos desnecessários, supérfluos e futilidades, e não precisam participar da mortal competição.[/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]JOHN WICK[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]JHON WICK[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://cdn.fstatic.com/media/movies/photos/2016/03/de-volta-ao-jogo_t78749.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/AReB596K</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20JHON%20WICK.txt</externallink>
 <fanart>https://media.fstatic.com/YRS4-XD-ED-zYeUDlIfmmKcKnVs=/full-fit-in/629x300/media/articles/main/2019/06/11/d37cdd1d-4f9b-45bf-9eb4-c3376b99c788-1807984679.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<info>[B][COLOR yellow]A história se concentra em John Wick, um assassino aposentado que busca vingança pelo roubo de seu carro e a morte de seu cachorro, um presente de sua esposa recentemente falecida.[[/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]JORNADA NAS ESTRELAS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.pinimg.com/originals/af/7a/c7/af7ac705a7ed31a7c7dbe5d436fa145c.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/vhKWpi0V</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20JORNADA%20NAS%20ESTRELAS%20.txt</externallink>
 <fanart>https://i.pinimg.com/originals/dd/c4/1a/ddc41ad6bb9725d050cbcd08984c5fa1.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<info>[B][COLOR yellow] A saga narra as aventura da Nave Interprise, comandada pelo capitão Kirck e sua tipulação, pelo universo descobrindo varios sistemas solares . Uma das franquias mais famosas e duradouras dos cinemas e da TV com treze longas.apresentando personagens icônicos como o Capitão Kirk (William Shatner) e Spock (Leonard Nimoy) [/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]JURASSIC PARK[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1r8TWaAExHbFRzyqT3Vcbq1XZQb.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/pJiJ7Vgj</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20JURASSIC%20PARK.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/rl2mFCm04GqHOz3RjSzrXqWB3M9.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<info>[B][COLOR yellow]urassic Park, conhecido no Brasil como “O Parque dos Dinossauros”, conta a história fictícia de um filantropo bilionario e uma pequena equipe de geneticistas que criam um parque temático em uma ilha, onde as principais atrações são variadas espécies de dinossauros recriados através da engenharia genética.Jurassic Park e a saga que revolucionou os efeitos especiaisário e uma pequena equipe de geneticistas que criam um parque temático em uma ilha, onde as principais atrações são variadas espécies de dinossauros recriados através da engenharia genética.[/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]KARATE KID[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOEQmFDkDKz3pgKo25UfC236zVC.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/kprqt9hk</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20KARATE%20KID.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/g8Q4QfwO3curRpMqE4JUxPXfL3H.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<info>[B][COLOR yellow]Quem cresceu entre os anos 1980 e 1990 provavelmente tem um carinho especial pela história do garoto perseguido por uma gangue de lutadores, que acaba encontrando ajuda num senhor aparentemente inofensivo de seu bairro. Daniel-san, vivido por Ralph Macchio, é um jovem bom, digno dos esforços do mestre Miyagi, ex-combatente que passa os dias cultivando bonsais, personagem eternizado pela interpretação de Pat Morita. Os métodos do sensei são pouco ortodoxos, como pintar cercas e polir carros. Em meio aos ensinamentos, primeiro, filosóficos e segundo, técnicos[/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MAD MAX[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTWaYIL6S60Xt47Mud-MiGfRExtSiJuMAN729h9YIvZcUS0UPfu&usqp=CAU</thumbnail>
-<externallink>https://pastebin.com/raw/b7Z9idng</externallink>
-<fanart>https://http2.mlstatic.com/mad-max-coleco-4-em-1-D_NQ_NP_676374-MLB26218531728_102017-F.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<thumbnail>https://http2.mlstatic.com/mad-max-coleco-4-em-1-D_NQ_NP_676374-MLB26218531728_102017-F.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20MAD%20MAX.txt</externallink>
+<fanart>https://miro.medium.com/max/2400/1*E5WxvEi-pPEHKf6gI8rD5A.jpeg</fanart>
+<info>[B][COLOR yellow]A Saga foca na história de Max "Mad" Rockatansky (Gibson), um policial rodoviário que faz parte de uma força tática chamada MFP (Main Force Patrol) em uma ponto remoto da Austrália decadente infestada por uma gangue de perigosos motociclistas.em uma epoca futurista onde a falta de gasolina gera muito conflito[/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MATRIX[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTv8AdAT4P8ivqK9f3b9WyHApGMhma8HbEwvR1Akz7wLIscWD-r</thumbnail>
-<externallink>https://pastebin.com/raw/Yndfj9ib</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20MATRIX.txt</externallink>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbAZN2wr3MhIoAtmThprkS5EgIL3oYZgnZqgfx-Yv8GopPU7E0</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<info>[B][COLOR yellow][/COLOR]O filme descreve um futuro distópico no qual a realidade, como percebida pela maioria dos humanos, é, na verdade, uma realidade simulada chamada "Matrix", criada por máquinas sencientes para subjugar a população humana, enquanto o calor e a atividade elétrica de seus corpos são usados ​​como fonte de energia. O cibercriminoso e programador de computador Neo aprende esta verdade e é atraído para uma rebelião contra as máquinas, que envolve outras pessoas que foram libertadas do "mundo dos sonhos". [/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MISSAO IMPOSSIVEL[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXN2N23/image?locale=pt-br&purposes=BoxArt&mode=scale&q=90&w=162</thumbnail>
-<externallink>https://pastebin.com/raw/mtHxt27Z</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20MISSAO%20IMPOSSIVEL.txt</externallink>
 <fanart>https://delfos.net.br/wp-content/uploads/2018/07/2018-07-23-miss%C3%A3oimposs%C3%ADvelefeitofallout1.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item> 
-######################################################################################################################################
+<info>[B][COLOR yellow]A franquia de filmes Missão Impossível conseguiu cumprir uma tarefa bastante difícil. Desde o lançamento do primeiro longa, em 1996, a a saga, tanto em bilheteria quanto na qualidade. Por incrível que pareça, há mais de 20 anos, o mote é o mesmo, mas com algumas variações. Tom Cruise na pele do agente secreto Ethan Hunt precisa salvar o mundo de alguma grande ameaça,  muitas vezes envolvendo armas de destruição em massa e terroristas psicóticos.[/COLOR][/B]</info></item> 
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O ESCORPIAO REI[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/qFVW76HRCJFRtTha1vZO1tjYVQ1.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/u9Q9qavc</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20O%20ESCORPIO%20REI.txt</externallink>
 <fanart>https://conteudo.imguol.com.br/c/entretenimento/e8/2017/06/14/the-rock-e-michael-clarke-duncan-em-cena-de-escorpiao-rei-1497470369818_v2_1482x1000.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item> 
-######################################################################################################################################
+<info>[B][COLOR yellow]A coleção Scorpion King é um spin-off de The Mummy Returns e segue a história de Mathayus, um eficaz mercenário e sua ascensão para se tornar o Scorpion King. A franquia começou com o filme de 2002 The Scorpion King, dirigido por Chuck Russell e estrelado por Dwayne "The Rock" Johnson, Kelly Hu, Grant Heslov e Michael Clarke Duncan.[/COLOR][/B]</info></item> 
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O EXTERMINADOR DO FUTURO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://f001.backblazeb2.com/file/papocine/2016/03/20160301-01.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/BCWmE8tx</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aTdTlHCm3jEw9IxYZdE0cMCh8ma.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20EXTERMINADOR%20DO%20FUTURO.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/wh4ze6klUbeichAj603OKZwY1W5.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item> 
-######################################################################################################################################
+<info>[B][COLOR yellow]Uma série de filmes de ficção científica sobre o conflito futurista entre os humanos liderados por John Connor e os exterminadores, que são feitos e controlados pela Skynet, um super computador autoconsciente que iniciou o Armagedon e pode realmente acabar com a humanidade para sempre.[/COLOR][/B]</info></item> 
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]OS MERCENARIOS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/87/30/13/20028673.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/SisCCajn</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vzfQJCdnd3FJrclke2RdiscNCbo.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20OS%20MERCENRIOS.txt</externallink>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSoqONx96pQpWG1EWGmIpfMLKxhurOdUOWN1Tajv86dyz3-Ohvy</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<info>[B][COLOR yellow]Barney Ross (Sylvester Stallone) é o líder de um grupo de mercenários, que realiza qualquer missão desde que ela seja bem paga. Entre seus companheiros usuais estão o especialista em facas Lee Christmas (Jason Statham), Bao Thao (Jet Li) e Gunnar Jensen (Dolph Lundgren), que têm demonstrado instabilidade emocional durante as missões. [/COLOR][/B]</item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ONZE HOMENS E UM SEGREDO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NbSiE9xnymrcMEfiUbSM9it7hq.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/Be8wEFhH</externallink>
-<fanart></fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<externallink>https://github.com/wiltesiq/gaviaoplayer/blob/main/COLE%C3%87%C3%83O%20ONZE%20HOMENS%20E%20UM%20SEGREDO.txt</externallink>
+<fanart>https://espacopop.com.br/wp-content/uploads/2020/10/Onze-homens-e-um-segredo-820x380.jpg</fanart>
+<info>[B][COLOR yellow]Humor, ação, aventura, classe, jogo, amizade, sorte, azar são alguns dos ingredientes que tornaram a Trilogia Ocean´s num verdadeiro êxito de bilheteira.
+Não admira, pois, que a indústria de entretenimento aproveite este tipo de filmes para promover os jogos de salas de casino e também os jogos de casino online.Se pensarmos bem, a vida e o jogo andam a par e par. Viver é uma aposta permanente.
+Com o galã mais conhecido de Hollywood, esta trilogia começa com Onze Homens e Um Segredo (Ocean’s Eleven) quando Danny Ocean (George Clooney) sai da prisão e decide vingar-se do implacável empresário Terry Benedict (Andy Garcia), que andava arrastando a asa para o lado de sua ex-mulher, Tess Ocean (Julia Roberts).[/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O SENHOR DOS ANEIS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/8/87/Ringstrilogyposter.jpg/250px-Ringstrilogyposter.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/GSwNZMFK</externallink>
-<fanart></fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<thumbnail>http://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/92/91/47/20224867.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20O%20SENHOR%20DOS%20ANEIS.txt</externallink>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/thumb/8/87/Ringstrilogyposter.jpg/250px-Ringstrilogyposter.jpg</fanart>
+<info>[B][COLOR yellow]A história narra o conflito contra o mal que se alastra pela Terra-média, através da luta de várias raças - Humanos, Anões, Elfos, Ents e Hobbits - contra Orcs, para evitar que o "Anel do Poder" volte às mãos de seu criador Sauron, o Senhor do Escuro. Partindo dos primórdios tranquilos do Condado, a história muda através da Terra-média e segue o curso da Guerra do Anel através dos olhos de seus personagens, especialmente do protagonista, Frodo Bolseiro.[/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]PIRATAS DO CARIBE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhSHjTdjlFWk1EREvVFqzV3d566ytQMUR1e-pSUdsdwKSedTso</thumbnail>
-<externallink>https://pastebin.com/raw/RKcY91WC</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gg57e2xyJN6K45VWj2eJSXGxUw1.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20PIRATAS%20DO%20CARIBE.txt</externallink>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROvA-XtW6m6fM0MDUG914Om12HlYKQAej1G-gW1nFVi9RwDF3z</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<info>[B][COLOR yellow]Série de filmes de fantasia com base nas aventuras do capitão Jack Sparrow, que ocorrem em um cenário histórico fictício; um mundo governado pelo Império Britânico, a Companhia das Índias Orientais e o Império Espanhol, com piratas representando a liberdade dos poderes governantes.[/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]QUARENTENA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/4wO6cBwV-VPCpYReY01stBqB-wY=/fit-in/290x478/smart/media/movies/covers/2010/08/7a96cb546ceef1f75e2e25ea640f5d61.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/wB86Byq2</externallink>
-<fanart>https://image.tmdb.org/t/p/original/ilhxNZplLP0sVp1lxYy0WXuEoJC.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20QUARENTENA.txt</externallink>
+<fanart>https://image.https://www.themoviedb.org/t/p/original/49EH8TqmaxOEgt3IFECnSMyAjfR.jpgtmdb.org/t/p/original/ilhxNZplLP0sVp1lxYy0WXuEoJC.jpg</fanart>
+<info>[B][COLOR yellow]Série de filmes de terror de ficção científica sobre surtos de infecção por virus, zumbis,etç..Cidades e países isolados, em quarentena. A população é tomada pelo pânico, sob o risco de uma infecção viral de origem praticamente desconhecida. Não há vacinas ou outros métodos para conter a doença.Por conta disso, uma crise econômica global sem precedentes é instaurada.Mortes prematuras, com corpos sendo encontrados pelas ruas ou em casas abandonadas, virou uma triste realidade. O clima de pavor, quase apocalíptico, está instaurado. A sensação é de que a humanidade pode estar chegando próxima do fim! A abertura do texto pode parecer coisa de ficção-científica produzida por Hollywood, mas, desta vez, a fantasia deu lugar à realidade. O mundo está um caos por conta da pandemia do novo coronavírus e com isso nada mais apropriado essa coletanea  sobre epidemias[/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]RAMBO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://filmesgratis.org/wp-content/uploads/2019/02/Rambo-4-torrent-download-dublado-bluray.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/T7nx3kKM</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vbXqifae6PQ3sWIvuJoPjqqQxTY.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20RAMBO.txt</externallink>
 <fanart>https://i.pinimg.com/originals/5d/26/98/5d2698c71ed17ccaa88b509736280022.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<info>[B][COLOR yellow]Uma série de filmes de ação que segue John Rambo, um veterano do Exército dos EUA, traumatizado por sua experiência na Guerra do Vietnã, e usa as habilidades que adquiriu lá para lutar contra policiais corruptos, tropas inimigas e cartéis de drogas.[/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]RESIDENT EVIL[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://sites.google.com/site/downloaddefilmess/_/rsrc/1309477403744/resident-evil-1-2-3-4/Trilogia-Resident-Evil_BaixarFilmesOnline_Tv1.jpg?height=400&width=283</thumbnail>
-<externallink>https://pastebin.com/raw/DbefL87b</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j8oe4FRYNHi8WxRKZq5dv0dW6Pn.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20RESIDENT%20EVIL.txt</externallink>
 <fanart>https://i0.wp.com/cloud.estacaonerd.com/wp-content/uploads/2017/01/24085001/resimovie.jpg?fit=1500%2C871&ssl=1</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<info>[B][COLOR yellow]Baseado vagamente nos game da Capcom do mesmo nome. A série de filmes é escrita por Paul W.S. Anderson com a protagonista Alice, interpretada por Milla Jovovich. A Umbrella Corporation atua como o principal antagonista da série, uma empresa farmacêutica de bioengenharia responsável pelo apocalipse zumbi como resultado da criação do virus T.[/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]RIDDICK[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]AS CRONICAS DE RIDDICK[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/NySWQBzo_zIRHzu12M-lC0E7xLg=/210x312/smart/media/movies/covers/2018/08/A_Batalha_de_Riddick.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/sTpq9qtF</externallink>
-<fanart>https://media.fstatic.com/N5l6dd_4cUyXqKXElMBXX976jEo=/640x480/smart/media/movies/covers/2012/05/3372ab1aee4b6c9cb1be0e94fa19eb67_2.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20RIDDICK.txt</externallink>
+<fanart>https://cdn.cinepop.com.br/2019/07/riddick.jpg</fanart>
+<info>[B][COLOR yellow]As Crônicas de Riddick" é uma série de filmes de ficção científica que segue as aventuras do anti-herói Richard B. Riddick.[/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ROCKY[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://assistirfilmesonline.pro/wp-content/uploads/2019/07/rocky-210x300.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/C1h3RapC</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20ROCKY.txt</externallink>
 <fanart>https://boletimnerd.com.br/wp-content/uploads/2016/06/maratona-rocky-balboa-megapix-1.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<info>[B][COLOR yellow]Rocky é uma série de filmes de ação estrelada e escrita pelo ator americano Sylvester Stallone,então um ator quase inexpressivo. o qual nestes filmes interpreta o boxeador Rocky Balboa.Um boxeador talentoso, mas com resultados irregulares, que ganha a vida cobrando dívidas para um agiota. Por conta de um golpe de sorte (e marketing), ele é desafiado pelo campeão dos pesos-pesados. O azarão treina, corre pelas ruas da Filadélfia, soca carne no açougue, vira popstar da noite para dia. Rocky Balboa é um cara gente boa, apaixonado pela funcionária de uma pet shop, preocupado com a retidão moral dos pré-adolescentes, entre outras características presentes nos seis episódios desta franquia que, ao todo, arrecadou algo próximo a US$ 1,3 bilhão. A determinação de Rocky Balboa, aliada aos demais atributos que fazem dele um personagem carismático, garantiram-lhe lugar cativo no imaginário cinéfilo. Sempre que Balboa sobe no ringue, a plateia o acompanha, sente junto os duros golpes sofridos, vibra a cada jab, gancho ou direto de direita desferido com sucesso no oponente.[/COLOR][/B]</item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ROGUE WARFARE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/78hDh9EHDMbox4FlKlOrRfrmgpU.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/nXmz37Sw</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/arTH6bMoRNtbQDUtSEbGyrAGX1f.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20ROGUE%20WARFARE.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/iQxJuPqCGOO4Iy3uFbMWCIGHkwE.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<info>[B][COLOR yellow]Uma equipe de elite de soldados se dirige a missões perigosas contra operativos terroristas, geralmente por ordem do Presidente dos Estados Unidos.[/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]  SAGA ROBERT LANGDON[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Robert_Langdon_film_series_home_release_artwork.jpeg/220px-Robert_Langdon_film_series_home_release_artwork.jpeg</thumbnail>
-<externallink>https://pastebin.com/raw/476CKvXC</externallink>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5DjYDwtCRWjGY8acWmFW4I4Pf0Nw9MV1dl1BaIOwM2fSDTTDl</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
-
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20A%20SAGA%20ROBERTO%20LANGDON.txt</externallink>
+<fanart>https://miro.medium.com/max/2000/1*2NA1XqHzvR_k16Ga8nf2uQ.jpeg</fanart>
+<info>[B][COLOR yellow]Robert Langdon, o famoso professor de simbologia de Harvard, vive sua primeira aventura em Anjos e Demônios, quando tenta impedir que uma antiga sociedade secreta destrua a Cidade do Vaticano. Às vésperas do conclave que vai eleger o novo Papa, Langdon é chamado às pressas para analisar um misterioso símbolo marcado a fogo no peito de um físico assassinado em um grande centro de pesquisas na Suíça. Ele descobre indícios de algo inimaginável: a assinatura macabra no corpo da vítima – um ambigrama que pode ser lido tanto de cabeça para cima quanto de cabeça para baixo – é dos Illuminati, uma poderosa fraternidade considerada extinta há quatrocentos anos. A antiga sociedade ressurgiu disposta a levar a cabo a lendária vingança contra a Igreja Católica, seu inimigo mais odiado. De posse de uma nova arma devastadora, roubada do centro de pesquisas, ela ameaça explodir a Cidade do Vaticano e matar os quatro cardeais mais cotados para a sucessão papal. Correndo contra o tempo, Langdon voa para Roma junto com Vittoria Vetra, uma bela cientista italiana. Numa caçada frenética por criptas, igrejas e catedrais, os dois desvendam enigmas e seguem uma trilha que pode levar ao covil dos Illuminati – um refúgio secreto onde está a única esperança de salvação da Igreja nesta guerra entre ciência e religião. Em Anjos e Demônios, Dan Brown demonstra novamente sua extraordinária habilidade de entremear suspense com fascinantes informações sobre ciência, religião e história da arte, despertando a curiosidade dos leitores para os significados ocultos deixados em monumentos e documentos históricos.[/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SHREK[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/e/e6/Shrek_Poster.jpg/215px-Shrek_Poster.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/WxJtp61c</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20SHREK.txt</externallink>
 <fanart>https://live.mrf.io/statics/i/ps/amenteemaravilhosa.com.br/wp-content/uploads/2018/08/shrek-fiona-burro.jpeg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<info>[B][COLOR yellow]A história de conto de fadas de um ogro grande, forte, amante da solidão e intimidante chamado Shrek e seus amigos.[/COLOR][/B]</info></item>
+###############################################################################################################################
+<item>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]TOMB RAIDER[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pacddM8GGkR2Dib3JjX4kucOve6.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20TOMB%20RAIDER.txt</externallink>
+<fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2021/03/tomb-raider-poster.jpg</fanart>
+<info>[B][COLOR yellow]Tomb Raider é uma série de filmes de ação e aventura centrados nas aventuras da arqueóloga fictícia britânica Lara Croft.[/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]TOMB RAIDER[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/hb1xbCaA7VCTrPaWbawDV6IO8Jc=/290x478/smart/media/movies/covers/2018/07/tomb-raider-5b0d895925482.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/KCk9KGmw</externallink>
 <fanart>https://media.fstatic.com/Ob7O2RfyY2SKAZNKx1YIbYMnR0c=/640x480/smart/media/movies/covers/2017/03/IMG_20170328_131317.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
-<item>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]TOMB RAIDER[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://media.fstatic.com/hb1xbCaA7VCTrPaWbawDV6IO8Jc=/290x478/smart/media/movies/covers/2018/07/tomb-raider-5b0d895925482.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/KCk9KGmw</externallink>
-<fanart>https://media.fstatic.com/Ob7O2RfyY2SKAZNKx1YIbYMnR0c=/640x480/smart/media/movies/covers/2017/03/IMG_20170328_131317.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<info>[B][COLOR yellow][/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]TRANSFORMERS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/e/ee/Transformers-poster.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/1vTCx3hH</externallink>
 <fanart>https://img.estadao.com.br/thumbs/640/resources/jpg/7/9/1530138434297.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<info>[B][COLOR yellow]A saga Transformers segue a batalha contínua entre os Autobots e os Decepticons.Durante anos os Autobots e os Decepticons, duas raças alienígenas robóticas, duelaram em Cybertron, seu planeta natal. Esta guerra fez com que o planeta fosse destruído, resultando que os robôs se espalhassem pelo universo. Megatron (Hugo Weaving), o líder dos Decepticons, vem à Terra em busca da Allspark, um cubo de Cybertron que possibilita que qualquer aparelho eletrônico seja transformado num robô com inteligência própria. Megatron encontra a Allspark, mas fica congelado no Ártico. Décadas depois outros Decepticons chegam à Terra, numa tentativa de encontrar a Allspark. Seu surgimento logo alerta os principais países, em especial os Estados Unidos, que tem uma base militar no Qatar atacada. Enquanto o Secretário de Defesa John Keller (Jon Voight) tenta descobrir o que está havendo, reunindo todas as forças e informações possíveis, o jovem Sam Witwicky (Shia LaBeouf) tem preocupações mais simples: conseguir uma boa nota no colégio, o que lhe garantirá seu 1º carro. Mas o que ele não esperava era que o veículo escolhido, um Camaro antigo, tinha vida própria.Assim começa a saga dos transformes [/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white][/COLOR]TROPAS ESTELARES[COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://minhateca.org/wp-content/uploads/2019/08/Tropas-Estelares-8211-Trilogia-Dublado.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/QxsZLi62</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jIRthvwEl37DuwOQ0aWwArpiDZL.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20TROPAS%20ESTELARES.txt</externallink>
 <fanart>https://www.planocritico.com/wp-content/uploads/2020/06/tropas_estelares_plano_critico-620x400.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<info>[B][COLOR yellow]Tropas Estelares é um filme de ficção científica militar americano de 1997 e o primeiro de três filmes lançados na franquia. A história segue um jovem soldado chamado Johnny Rico e suas façanhas na Infantaria Móvel, uma unidade militar futurista. A carreira militar de Rico progride de recruta a oficial não comissionado e, finalmente, a oficial contra o pano de fundo de uma guerra interestelar entre a humanidade e uma espécie de aracnóide conhecida como "os insetos".
+[/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]UMA NOITE NO CRIME (THE PURGE )[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://3.bp.blogspot.com/-WYvK5vonqpE/W47xSRfH83I/AAAAAAAAQhE/u7hBsVPo_QARYRKRbnmiXo3dpUpFZ2r_wCLcBGAs/s1600/Trilogia%2BUma%2BNoite%2Bde%2BCrime%2Bcole%25C3%25A7%25C3%25A3o%2Bcompleta%2Btodos%2Bos%2Bfilmes%2Btorrent%2Bdownload%2Bdublado.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/z9RtZ9mp</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20UMA%20NOITE%20NO%20CRIME.txt</externallink>
 <fanart>https://media.fstatic.com/lg963jYFD4eA8DeymC_PzGgah2Q=/full-fit-in/629x300/media/articles/main/2015/02/dd4a6cf1-9f1a-4c72-a919-6cde9c27a5f1.jpe</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<info>[B][COLOR yellow]Uma série de filmes de suspense de terror baseados em uma futura América distópica, onde todo crime é legalizado uma vez por ano.para aaliviar o crescimento da população carceraria[/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]UM POLICIAL BOM PRA CACHORRO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/21mBNUe0X4WYywe6w5DyihltmAn.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/KXcFfd1n</externallink>
 <fanart>https://image.tmdb.org/t/p/original/5Qb522GHp2eJlcwr6BHnu3hLTQZ.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<info>[B][COLOR yellow]Michael Dooley (James Belushi) é um policial extravagante que necessita de alguma ajuda para lutar contra Lyman (Kevin Tighe), um narcotraficante que tem tentado matá-lo. Um conhecido lhe dá Jerry Lee, um pastor alemão que foi treinado para cheirar drogas, mas Jerry Lee tem uma personalidade própria e trabalha apenas quando quer. Para piorar, o cachorro é ótimo em destruir o carro, a casa e a vida sexual de Dooley. [/COLOR][/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]VELOZES E FURIOSOS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://img.comunidades.net/bai/baixefilmeshd/saga_velozes_e_furiosos_340x311_.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/TGCsY29D</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xf6fZx3KbnCaNARtcIIwAiAtZQ4.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20VELOZES%20E%20FURIOSOS.txt</externallink>
 <fanart>https://www.coxinhanerd.com.br/wp-content/uploads/2017/04/topolista2.png</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
-######################################################################################################################################
+<info>[B][COLOR yellow][/COLOR]Série de filmes de ação centrada em corridas de rua ilegais e roubos.Vamos acelerar do primeiro ao último filme em alguns parágrafos? Apertem os cintos para muita ação de alta octanagem e velocidade alucinante, em Velozes e Furiosos . Vin Diesel, Paul Walker, Dwayne Johnson, Michelle Rodriguez e um elenco de astros pisam fundo em busca de justiça e sobrevivência, numa corrida desde Los Angeles a Tóquio, Rio a Londres e de Cuba a Nova York. Recheados de ação furiosa e cenas de cair o queixo, estes oito capítulos turbinados vão colocar você ao volante do mais explosivo filme da história da franquia![/B]</info></item>
+###############################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]X-MEN[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://lojasaraiva.vteximg.com.br/arquivos/ids/1417408/1000858937.jpg?v=637003781718900000</thumbnail>
-<externallink>https://pastebin.com/raw/iWb0n2Sy</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/COLE%C3%87%C3%83O%20XMEN.txt</externallink>
 <fanart>https://blogs.uai.com.br/opipoqueiro/wp-content/uploads/sites/54/2016/05/x-men-apocalypse.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</item>
+<info>[B][COLOR yellow]Com grande elenco, incluindo Hugh Jackman, Michael Fassbender, James McAvoy, Jennifer Lawrence, Halle Berry, Patrick Stewart e Ian McKellen, a Coleção X-Men contém os 6 filmes da saga! Acompanhe a história épica dos X-Men, um grupo de humanos que sofreram mutações genéticas e que agora possuem poderes e habilidades extraordinárias. Comprometidos com uma batalha permanente para serem socialmente aceitos, os X-Men devem aprender a usar seus poderes contra aqueles que desejam dominar o mundo através do medo. Junte-se ao Professor Xavier, Tempestade, Jean Grey, Ciclope e Wolverine para salvar o mundo dos planos de Magneto, dos Sentinelas e de Apocalipse, um poderoso mutante que em busca de vingança quer destruir o planeta Terra.[/COLOR][/B]</info></item>
 #####################################################################################################################################
