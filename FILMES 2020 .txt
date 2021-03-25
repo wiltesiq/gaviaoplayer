@@ -1,19 +1,23 @@
 
-######################################################################################################################################
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
 <item><title>[B][COLOR white]Mulher Maravilha 1984[COLOR yellow] (2020)[COLOR lime] Ação[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad05c3f5014af41f8dfb97ef47f2a00e31d70753</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pBHYbehxaSSMc0X5m5iKBvqWzCi.jpg</thumbnail><info>[B][COLOR yellow]Em 1984, Diana Prince entra em conflito com dois inimigos formidáveis, Maxwell Lord e a Mulher-Leopardo, enquanto reencontra misteriosamente com seu antigo interesse amoroso Steve Trevor.[/COLOR][/B]</info></item>
  
-######################################################################################################################################
+###############################################################################################################################
 <item><title>[B][COLOR white]O Ceu Da Meia Noite[COLOR yellow] (2020)[COLOR lime] Aventura[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f0c24a7b5ab652b0b35f0607e6bc179f3b4ed205</link>
 <link></link>
 <thumbnail>https://megafilmeshd50.com/wp-content/uploads/2020/12/o-ceu-da-meia-noite-185x278.jpg</thumbnail><info>[B][COLOR yellow]Um cientista solitário no Ártico se apressa para contatar uma tripulação de astronautas em viagem de retorno, para evitarem uma misteriosa catástrofe global[/COLOR][/B]</info></item>
 https://sfyvy14706igsem.belugacdn.link/cdnespecial3/OCeuDaMeiaNoite.2020.mp4
-######################################################################################################################################
+###############################################################################################################################
 <item><title>[B][COLOR white]O Caminho de Volta[COLOR yellow] (2020) [COLOR lime]Drama[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4c9d6da9409225dc142d426ba1d6d1dbb2b1fb5</link>                                   <thumbnail>https://abutretorrents.com/imagens/o-caminho-de-volta-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail><info>[B][COLOR yellow]História sobre o técnico de um time basquete de um colégio de ensino médio que anteriormente foi atleta do mesmo esporte. Por conta de vícios, sua carreira promissora como jogador foi tragicamente ao fim, assim como seu relacionamento com sua esposa e a fundação de sua família. Ao tornar-se treinador do time de escola, o ex-atleta tenta encontrar estímulos para seguir em frente e refazer sua vida.[/COLOR][/B]</info></item>
-######################################################################################################################################
+###############################################################################################################################
 <item><title>[B][COLOR white]Jogo Assassino[COLOR yellow] (2020)[COLOR lime] Ação[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5577f57aba9d2111513081e0234ae5f85e6508f</link>                                   <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/920UZBy06CnEXpJpC3AeatroO3m.jpg</thumbnail><info>[B][COLOR yellow]Uma força-tarefa da polícia prende um predador online, apenas para descobrir que a profundidade de seus crimes vai muito além do que eles haviam previsto.[/COLOR][/B]</info></item>
 ###########################################################################################################################
