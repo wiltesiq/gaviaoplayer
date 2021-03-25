@@ -1,7 +1,7 @@
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimsom]###[/COLOR] [COLOR white] LISTA 1[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/3J3jSKD5/filmes-avulsos.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/iM13sAYH</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/FILMES%20AVULSOS%20LISTA%201.txt</externallink>
 <fanart>https://i.postimg.cc/wMCz0W00/FANART-FILMES-AVULSOS.jpg</fanart>
 <info>[B][COLOR yellow]PACOTE DE FILMES DE TODOS OS GOSTOS[/COLOR][/B]</info>
 </item>
