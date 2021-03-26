@@ -14,6 +14,9 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65818E201492BF2678D19AEFE7FFA90E4ADF5A32</link><thumbnail>https://media.fstatic.com/7Gc7yZxveZ3hQfv9W4tiCP8aBsk=/290x478/smart/media/movies/covers/2018/10/american_gods_ver14.jpg</thumbnail><info>[B][COLOR yellow]Temporada completa com todos os links em torrents[/COLOR][/B]</info></item>
 <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 <item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+
+
+
 <item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
 <link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS EPISODEOS DA SERIE EM LINKS DIRETOS, POREM AS VEZES FICAM OFF LINE, MAS LOGO VOLTAM A FICAR ON LINE.[/COLOR][/B]</info></item>
 <item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
