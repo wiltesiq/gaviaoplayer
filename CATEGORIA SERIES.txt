@@ -1,7 +1,7 @@
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimsom]###[/COLOR] [COLOR white] SERIES ATUAIS [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/W3hXqs4N/series-atuais.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/xb14v42H</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/CATEGORIA%20SERIES%20ATUAIS.txt</externallink>
 <fanart>https://i.postimg.cc/GpjBCDPV/fanart-series-atuais.jpg</fanart>
 <info>[B][COLOR yellow]SÉRIES DE SUCESSOS E QUE ESTAO EM DESTAQUE NOS MEIOS DE COMUNICAÇÃO TELEVISIVO.SE A SUA PREFERIDA NÃO ESTIVER EM NOSSO ACERVO E SO ENTRAR EM CONTATO E FAZER O PEDIDO , QUE SERÁ ATENTIDO ASSIM QUE POSSÍVEL[/COLOR][/B]</info>
 </item>
