@@ -1,14 +1,14 @@
 <item>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES LEGENDADOS [COLOR yellow]2021[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/QxjrVXjH/filmes-legendados2021.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/tuf6hHkL</externallink>
-<info>[B][COLOR yellow]LOCAL PARA QUEM GOSTE DE FILMES COM SOM ORIGINAL,AQUI ESTÃO FILMES LEGENDADOS  LANÇADOS EM 2021, TODOS EM ARQUIVOS TORRENTES, É NESCESSARIO TER O ADDON ELEMENTUM  E O ELEMENTUM BURST INSTALADOS PARA ABRIR OS LINKS.[/COLOR][/B]</info>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES  [COLOR yellow]2020[/COLOR] SERVIDOR 1[COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/FF3gKFNJ/filmes-2020.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/FILMES%202020%20.txt</externallink>
+<info>[B][COLOR yellow]LISTA DE FILMES LANÇADOS EM 2020, TODOS EM ARQUIVOS TORRENTES, É NESCESSARIO TER O ADDON ELEMENTUM  E O ELEMENTUM BURST INSTALADOS PARA ABRIR OS LINKS.[/COLOR][/B]</info>
 </item>
 ##########################################################################################################################################
  <item>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES LEGENDADOS  [COLOR yellow]2020[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/MZ7SW-c2C/filmes-legendados2020.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/X05VMhe7</externallink>
-<info>[B][COLOR yellow]LOCAL PARA QUEM GOSTE DE FILMES COM SOM ORIGINAL,AQUI ESTÃO FILMES LEGENDADOS  LANÇADOS EM 202O, TODOS EM ARQUIVOS TORRENTES, É NESCESSARIO TER O ADDON ELEMENTUM  E O ELEMENTUM BURST INSTALADOS PARA ABRIR OS LINKS.[/COLOR][/B]</info>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES  [COLOR yellow]2020 [/COLOR] SERVIDOR 2[COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/FF3gKFNJ/filmes-2020.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/FILMES%202020%20%20RC.txt</externallink>
+<info>[B][COLOR yellow]LISTA DE  FILMES LANÇADOS EM 202O, TODOS EM LINKS DIRETOS,POREM AS VEZES FICAM OFF LINE,MAS LOGO VOLTA A FICAR ON LINE.[/COLOR][/B]</info>
 </item>
 
