@@ -4,43 +4,30 @@
 <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
  
  
-
- 
 <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR crimson]### [COLOR white] ARROW (ARQUEIRO) [COLOR lime]2ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0dcd64b6e93f2ee4467086cd27f81f41d3a37fe1</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow][/COLOR]Temporada completa com todos os links em torrent[/B]</info></item>
 <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
  
  
-
- 
 <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR crimson]### [COLOR white] ARROW (ARQUEIRO) [COLOR lime]3ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:308F777C5B22F5B412A6248E711F15FF8F08A6A6</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow][/COLOR]Temporada completa com todos os links em torrent[/B]</info></item>
 <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
  
- 
 
- 
 <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR crimson]### [COLOR white] ARROW (ARQUEIRO) [COLOR lime]4ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AD48DD5E232CE6374736C68004D49D6E95BFE9D8</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow][/COLOR]Temporada completa com todos os links em torrent[/B]</info></item>
 <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
  
  
-m>
- 
- 
- 
 <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR crimson]### [COLOR white] ARROW (ARQUEIRO) [COLOR lime]5ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7AE429FA7D7EDDF0D8556C40438CD0B54898C4FC</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow][/COLOR]Temporada completa com todos os links em torrent[/B]</info></item>
 <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
- 
- 
 
- 
- 
+
 <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR crimson]### [COLOR white] ARROW (ARQUEIRO) [COLOR lime]6ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
 <link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow][/COLOR]Temporada completa com todos os links em torrent[/B]</info></item>
@@ -92,10 +79,7 @@ m>
 <item><title>[B][COLOR white]EP 23[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7FF288287F22BBED9051405DC42D3F24E6F220E5</link><thumbnail></thumbnail></item>
 <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
  
- 
 
- 
- 
  
 <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR crimson]### [COLOR white] ARROW (ARQUEIRO) [COLOR lime]7ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
