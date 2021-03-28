@@ -1,21 +1,21 @@
 <item>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] 3 % [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] 3% [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qexbQteX7G3065zAksoPOdz165C.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/wN9h1H4T</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/3%25.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/sYJngGwwFLoDAbFNzpAbmULXSzB.jpg</fanart>
 <info>[B][COLOR yellow]Depois de diversas crises que deixaram o planeta devastado. No norte do Brasil, a maior parte da população sobrevivente mora no Continente, um lugar miserável, decadente, onde falta tudo: água, comida, energia. Aos 20 anos de idade, todo cidadão tem direito de participar do Processo, uma seleção que oferece a única chance de passar para o Maralto, onde tudo é abundante e há oportunidades de uma vida digna e justa. Mas somente 3% dos candidatos são aprovados no Processo.[/B][/COLOR]</info></item>
 ##########################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]THE 12 MONKEYS[COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/J3inKg5g</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/12%20MONKEYS.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/cNPipmZrU4Ah2PJJgxhZEqlWt1j.jpg</fanart>
 <info>[B][COLOR yellow]Em um mundo pós-apocalíptico, a humanidade é forçada a viver nos subterrâneos depois que um vírus mortal é liberado. James Cole, um condenado, é enviado ao passado com o objetivo de reunir informações sobre o vírus para que os cientistas possam erradicá-lo.[/B][/COLOR]</info></item>
 ##########################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]XIII:THE SERIES [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/jgnlayjH6iMEvEoKrxH3BZjjRDQ.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/5ygJCULp</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/XIIITHE%20SERIES.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/ybIEMNaV8QNp1xvg2bfEalwSTbn.jpg</fanart>
 <info>[B][COLOR yellow]Um homem desmemoriado tenta descobrir sua verdadeira identidade. Suas únicas pistas são: o número XIII, em algarismos romanos, tatuado em seu corpo e uma foto sua ao lado da viúva de um Capitão das Forças Armadas.
 Tentando localizá-la, XIII (Stuart Townsend, do remake de “Kolchack/Night Stalker”) passa a ser perseguido por assassinos de uma organização secreta que tenta derrubar o governo americano.[/B][/COLOR]</info></item>
@@ -23,42 +23,42 @@ Tentando localizá-la, XIII (Stuart Townsend, do remake de “Kolchack/Night Sta
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]AGENDA PROIBIDA [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKjcU6BKcLN6GtjClKnTwuLj7KK.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/B0RgDYUa</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/AGENDA%20PROIBIDA.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/m3NvwhIemvl8XMJWmKuntm9ZgeQ.jpg</fanart>
 <info>[B][COLOR yellow]Riley Parks tenta equilibrar suas duas vidas: em casa, ela é mãe e batalhadora; em uma casa de massagem, ela possui clientes especiais.[/B][/COLOR]</info></item>
 ##########################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]AMERICAN GODS [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gevw5nZRYz2kWj1PqW9pz4sgeeZ.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/YDFFntuf</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/AMERICAN%20GODS.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/7dnjFPoa22Yl3RKctp8kgUxiUg9.jpg</fanart>
 <info>[B][COLOR yellow]O drama é centrado em uma guerra entre os velhos e os novos deuses. Os seres bíblicos e mitológicos estão perdendo cada vez mais fiéis para novos deuses, que refletem o amor da sociedade por dinheiro, tecnologia, celebridades e drogas.[/B][/COLOR]</info></item>
 ##########################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ARROW [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oaLXsduGoDOOftWziIOvyZzrR4T.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/zXbgEWCr</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/ARROW.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/elbLQbocvW9vwrHRjYTSjXr5BX5.jpg</fanart>
 <info>[B][COLOR yellow]Oliver Queen/Arqueiro Verde, descrito como um bad boy reabilitado de 27 anos que, depois de sofrer um naufrágio, passa cinco anos brutais em uma ilha no sul da China e retorna para a cidade como um homem mudado: um mestre torturado e reflexivo do arco e flecha, determinado a fazer a diferença.?[/B][/COLOR]</info></item>
 ########################################################################################################################## 
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]A MEDIUM[COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7JiKpw5HZpf1nf8US4bR8lbTAp.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/sEc9fZjA</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/A%20MEDIUM.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/jqUgrSO7U3ILxEigy15NjaHwHLc.jpg</fanart>
 <info>[B][COLOR yellow]Allison, uma jovem mulher, luta para entender seus sonhos e visões de pessoas mortas desde a infância. Ela é dedicada aos três filhos, marido, curso de direito e ao estágio na promotoria. Seu desafio é convencer seu chefe, Devalos, e outros no departamento de que seus poderes psíquicos podem ajudar na solução de crimes, cujos mistérios só podem ser esclarecidos pelos que vivem além do túmulo.[/B][/COLOR]</info></item>
 #########################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]A TERRA PROMETIDA[COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/aPmhGirvnPVsJ_wzGuZ0Vn3uDIs=/290x478/smart/media/movies/covers/2018/11/p1829099_b_v5_v1.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/teQ8tMw9</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/A%20TERRA%20PROMETIDA.txt</externallink>
 <fanart>https://novelas.redenoticia.com.br/imagens/2018/08/a-terra-prometida-resumo-novela.jpg</fanart>
 <info>[B][COLOR yellow]Após a fuga do Egito, eles peregrinaram no deserto por 40 anos. Nesse período, muitos começaram a se voltar contra Deus e passaram a desobedecer as ordens do Senhor. Até mesmo Moisés será punido por Deus e não adentrará na terra prometida. Dos saídos da escravidão no Egito, apenas Josué e Calebe herdarão Canaã. Ao chegar na terra prometida, eles perceberam que a mesma já estava sendo habitada. Por isso, terão que enfrentar algumas batalhas para conseguir conquistar terra e reinos.[/B][/COLOR]</info></item>
 ##########################################################################################################################
 <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]BONES [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bwF1daWnsEYYjbHXiEMdS587fR.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/qnr9vGux</externallink
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/BONES.txt</externallink
 <fanart>https://image.tmdb.org/t/p/original/fb3e06LJr5mNhtmVMFv9pFeWKWj.jpg</fanart>
 <info>[B][COLOR yellow]O agente Seeley Booth do F.B.I. trabalha com a antropóloga forense Dra. Temperance 'Bones' Brennan (Emily Deschanel) e sua pouco convencional equipe de cientistas. Juntos solucionam alguns dos mais intrigantes e bizarros crimes de todos os tempos com a ajuda de um corajoso instinto, sólidos procedimentos investigativos e tecnologia de última geração. Inspirado nas aventuras da vida real da antropóloga forense e escritora Kathy Reichs, Bones é um inteligente drama investigativo, com muita tensão romântica e humor negro.[/B][/COLOR]</info></item>
 ##########################################################################################################################
