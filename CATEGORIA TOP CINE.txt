@@ -64,14 +64,14 @@
 <item>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] TOP CINE[COLOR yellow]  NACIONAL[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/wM9MbjsH/top-cine-nacional.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/Uc86mSgp</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/TOP%20CINE%20NACIONAL.txt</externallink>
 <fanart>https://i.postimg.cc/FHg4rf4C/fanart-top-cine-nacional.jpg</fanart>
 <info>[B][COLOR yellow][/COLOR][/B]</info></item>
 #######################################################################################################################
 <item>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] TOP CINE[COLOR yellow]  ROMANCE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/V6QdnRfJ/top-cine-romance.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/gd3p4DyJ</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/TOP%20CINE%20ROMANCE.txt</externallink>
 <fanart>https://i.postimg.cc/rmBzG9qd/top-cine-romance.jpg</fanart>
 <info>[B][COLOR yellow][/COLOR][/B]</info></item>
  
