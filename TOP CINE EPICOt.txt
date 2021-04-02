@@ -32,6 +32,10 @@ https://svr3.cloudplayer.online/link/zjhbSVzKSBiLoin/1080/3d88aeacffa8a688f546dd
 <item><title>[B][COLOR white]Exodo,Deuses E Reis[COLOR yellow](2015)[/COLOR][/B]</title><link>https://svr3.cloudplayer.online/link/KZv7eHFNjqBj1xH/480/f1835bb8f4a29383c5c06f7b79aa19d6/</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cGVQBBxVSFblIt0UVacPvn5iNjv.jpg</thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
 ##################################################################################################################################
 <item><title>[B][COLOR white]A Legiao[COLOR yellow](2014)[/COLOR][/B]</title><utube>lk4hE2hBr6A</utube><thumbnail>https://ottvsimg.ottvs.com.br/cov/a2.034475/0034475_200.jpg</thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+
+###############################################################################################################################
+<item><title>[B][COLOR white]Imortais[COLOR yellow](2012)[COLOR red] [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6AAE8SUJR6PEPkiQHtBPPLqQDe.jpg</thumbnail>info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ##################################################################################################################################
 
 <item><title>[B][COLOR white]Ricardo Coracao De Leao [COLOR yellow](2014)[/COLOR][/B]</title><link>https://svr3.cloudplayer.online/link/4xQPT6SixvxalQ0/360/64033e5475df6bd2a41c4e4cb132f02a/</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2019/05/e3uhFw9UOHSLjjvqYpxUugn0mPh_2yETURM.jpg</thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
