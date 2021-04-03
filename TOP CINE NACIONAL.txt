@@ -242,8 +242,8 @@
 ##########################################################################################################################
 <item><title>[B][COLOR white]Rota Comando [COLOR yellow]( 2020 ) [COLOR red]AÇÃO[/COLOR][/B]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=cfNuhnCF9f4</link> 
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ujh6cy093HsPiKMiKrKtR7I1q0a.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]
-Filme baseado em fatos reais e enfatiza as principais ocorrências da Rota, contando a história de três criminosos que se deram mal por aterrorizar a cidade de São Paulo.
+<link>https://ia801401.us.archive.org/34/items/rota-comando/Rota%20Comando%20.mp4</link> 
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ujh6cy093HsPiKMiKrKtR7I1q0a.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Filme baseado em fatos reais e enfatiza as principais ocorrências da Rota, contando a história de três criminosos que se deram mal por aterrorizar a cidade de São Paulo.
 Em uma perseguição a um carro suspeito, os elementos atiraram contra os policiais e nesse confronto acontece a morte de um criminoso, que tem várias passagens pela polícia. Na sequência há a trajetória de um bandido que veio do Rio de Janeiro para comandar o crime de São Paulo, matando e estrupando sem piedade.
 Por último, a história de um traficante que passa a fazer sequestros por ter seu tráfico neutralizado pela operação saturação. Perseguição, troca de tiros, morte, prisão e muita ação, num filme e muito polêmico.
 [/COLOR][/B]</info></item>
