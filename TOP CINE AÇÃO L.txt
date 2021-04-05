@@ -1,84 +1,52 @@
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]lavalantula[COLOR yellow] ( 2015  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D91C4FDE5D9C668D35D151BD09AC8A15750382BA</link><thumbnail>https://1.bp.blogspot.com/-X-zRcR7JmX0/W2h713bmdBI/AAAAAAAAPGM/3WWmDvKhw8chJJMi3xBCsp8OEcIMHQuRQCLcBGAs/s1600/Laval%25C3%25A2ntula%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]O envelhecido astro de ação Colton West prepara-se para voltar para casa após mais um dia de filmagens em Los Angeles. É quando um terremoto liberta gigantescas tarântulas pré-históricas que estavam aprisionadas no centro da Terra e têm o poder de disparar lava! Diante da ameaça das "lavalântulas", Colton precisa usar seus anos de aprendizado nos sets de filmes de ação para sobreviver e salvar sua família. [/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Lavalantula 2[COLOR yellow] ( 2016  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DB5206070B6A8EC84AE8447D88E017FDDC53E073</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow]Steve Guttenberg repete seu papel como Colton West na sequencia de Lavalântula. Mais uma vez, gigantescas aranhas que vomitam lava estão soltas, desta vez na Flórida, onde a enteada de Colton esta passando suas férias escolares. Somente Colton e um grupo de companheiros, ex-co-estrelas da Academia de Polícia de Guttenberg (Michael Winslow e Marion Ramsey) podem detê-los. Mas será que eles serão capazes de derrotar a maior lavalântula de todas – a Gargantulântula?[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Lucy[COLOR yellow] ( 2014 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0fe155c10eb728fb13de30a1082700148ef91934</link><thumbnail>https://image.tmdb.org/t/p/w342/6f10Yn1vooCMhb6DrY6AvsK19Yh.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Quando a inocente jovem Lucy (Scarlett Johansson) aceita transportar drogas dentro do seu estômago, ela não conhece muito bem os riscos que corre. Por acaso, ela acaba absorvendo as drogas, e um efeito inesperado acontece: Lucy ganha poderes sobre-humanos, incluindo a telecinesia, a ausência de dor e a capacidade de adquirir conhecimento instantaneamente.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Leal - Só Existe uma Maneira de Viver[COLOR yellow] ( 2018 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:828F31452CDDB559A5AD8364E38545D8735B2D33</link><thumbnail>https://abutretorrents.com/capas/leal-so-existe-uma-maneira-de-viver-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Um ex-coronel paraguaio forma um grupo paramilitar especial focado no combate ao narcotráfico para proteger as fronteiras de seu país. [/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Laços de Sangue [COLOR yellow]( 2013 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EC2E85B4D5BD8317C00786E1555B53822CD13A0F</link><thumbnail>https://abutretorrents.com/capa/lacos-de-sangue-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Nova York, 1974. Chris (Clive Owen), na casa dos cinquenta anos, é liberado por bom comportamento depois de vários anos de prisão. De volta ao "mundo real", encontra Frank (Billy Crudup), seu irmão mais novo, como um promissor policial. Não é apenas a escolha da "carreira" que separa Chris e Frank, mas também uma rivalidade que vem desde a infância e da lembrança da preferência do pai Leo (James Caan) por Chris. Crente de que o irmão mudou, Frank lhe dá uma nova chance: o abriga, encontra um emprego para ele e ainda o ajuda a reconectar-se com seus filhos e sua ex-mulher, Monica (Marion Cotillard). Chris começa uma relação com a bela Natalie (Mila Kunis), mas logo se vê mergulhado mais uma vez no mundo do crime, o que não agradará seu irmão. [/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Lobo Guerreiro [COLOR yellow]( 2015 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4035BC3CD765925F020536E52AC2D450E9CF5D74</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/abqtB9guTiBfdJPJm7C9K1RbSQ3.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Um soldado da força especial chinesa com pontaria extraordinária é confrontado por um grupo de mercenários estrangeiros perigosos, que foram contratados por um traficante de drogas para assassiná-lo. Agora ele terá que usar todas as suas habilidades para sobreviver.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Lobo Guerreiro 2[COLOR yellow](  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d5018cdca24b5682b7b5b35bc6c4426cb72df5f4</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lETj0IoEJcjEAOHEVZILVPtySvY.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Um agente das forças especiais chinesa leva uma vida tranquila no mar, até que mercenários começam a atacar e aterrorizar civis inocentes próximos a ele. Com isso ele deixa sua nova vida de paz de lado e volta com os seus deveres de soldado. [/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Limite da Honra [COLOR yellow]( 2017 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d447d0be4b3c998cbf60df0fcbf2027e203d86f4</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/795n4sG4bTvkt2bjZdvuXkCFqoe.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]O detetive Tung está determinado a capturar o contrabandista Shing por qualquer meio que for necessário. A busca o leva a um navio de cruzeiro com um cassino, onde as lutas internas pelo poder entre os criminosos levará à prova tanto a polícia quanto os criminosos. [/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Looper - Assassinos do Futuro [COLOR yellow]( 2013 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1711d8d809fc26442ac1878059cf5fb0bcccaba</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qi3aMCoFbnfpbd0XBLznLUn99xQ.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Em um futuro não muito distante, as viagens no tempo existem, mas não são permitidas. Entretanto, um grupo de assassinos da máfia, os chamados Loopers, a utilizam para encobrir vestígios de seus assassinatos, enviando as vítimas de volta ao passado. Um desses assassinos, Joe (Joseph Gordon-Levitt), recebe a visita de sua versão no futuro (Bruce Willis) e terá de lutar contra si mesmo para tentar sobreviver. [/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Lila & Eve – Unidas Pela Vingança[COLOR yellow] ( 2015 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:304DFD30777B9991F40798581B086CC9EF45F093</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zGY41KlplvdPcUT0OeTu04ZPHke.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]O filho de Lila (Viola Davis) foi assassinado em um tiroteio. Quando ela começa a frequentar um grupo de apoio, conhece Eve (Jennifer Lopez), que também perdeu a filha. Como Lila segue insatisfeita com os resultados dos trabalhos da polícia, Eve a aconselha a procurar justiça com as próprias mãos. As duas embarcam em uma jornada de vingança, que acabará por afetar a recuperação das duas.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Linha de Ação [COLOR yellow]( 2013 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a83102efabf89f018e9a18903bca58995333dc57</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vANxzh8pGBXXEm8n9Xz8w30wP3a.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Nicholas Hostetler (Russell Crowe) é o prefeito de Nova York, um sujeito arrogante e ambicioso, que se prepara para a reeleição dentro de alguns dias. Ele contrata Billy Taggart (Mark Wahlberg), um ex-policial que caiu em desgraça na corporação, para investigar quem é o amante de sua esposa (Catherine Zeta-Jones). O político tem medo de que esta informação torne-se pública, sujando sua imagem e fazendo com que ele perca eleitores. Por mais que tenha antigas discordâncias com o prefeito, responsável por sua saída da polícia, Billy aceita a tarefa pelo dinheiro prometido. Entretanto, logo ele descobre que Nicholas tem outras intenções por trás da investigação encomendada.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Linha de Frente[COLOR yellow] ( 2013 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d135c137fc86749189c7b6a42ebb7353586047bd</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kPnwwSmZcJehNC5l3g0iHT7e0M3.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Phil Broker (Jason Statham) é um ex-agente do Departamento de Combate a Narcóticos, nos Estados Unidos. Tentando escapar de seu passado, ele se muda para uma tranquila cidade do interior. Com o tempo, percebe que a comunidade não é tão pacata assim e terá que enfrentar um grupo de traficantes liderados por Gator (James Franco).[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Liga dos Deuses[COLOR yellow] ( 2018 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BA604B18884326CED245DC48AF9E6EDB134256BB</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eeOenH1sXU0NIeNBbo6jClju1Ac.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Com base no romance chinês do século XVI Feng Shen Yan Yi (A Investidura dos Deuses), a história conta como o Rei Zhou de Shang se torna um tirano devido às astúcias de Daji, um espírito vixen que está disfarçado como uma de suas concubinas.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Loucos e Perigosos[COLOR yellow] ( 2017 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ABA17464F23FE2DDF095F4AAB93BC381B50444B6</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zQw4fSps9BJbr5bneQGrv36ADrX.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Quando Steve Ford (Bruce Willis), um detetive particular de Los Angeles, descobre que seu querido cachorro foi sequestrado, ele não tem outra alternativa a não ser atacar a gangue responsável pelo crime. Spyder (Jason Momoa), o chefe dos traficantes, impõe então uma condição para a devolução do cão: que Steve realize alguns trabalhos para ele.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Ladrões[COLOR yellow] ( 2010 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a90f7e63f244b723afa902634a10ac8ec6977e8</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zlMlXCzoehhc7fSYJWepUBZFdTW.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Um grupo de bandidos acostumados a executar assaltos sem deixar vestígios resolve se aposentar, mas para isso precisam executar um último "serviço" que irá render a bolada de US$ 20 milhões. O único problema é que agora o detetive Jack Welles (Matt Dillon) está disposto a atrapalhar a carreira deles e não vai medir esforços para colocá-los atrás das grades. [/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Legião[COLOR yellow] ( 2010 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F21F35CFDEFDBA55B6F7A1EF66B5BC191317D847</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4w83G68shLcuFcHaWfdPxPu1pUA.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Deus perdeu a fé na humanidade e enviou o anjo Michael (Paul Bettany), juntamente com uma legião de anjos, para dar início ao apocalipse. Entretanto, ao chegar Michael resolve se opor às ordens recebidas e proteger os humanos. O palco da batalha será no interior dos Estados Unidos, onde fica uma lanchonete gerenciada por Bob Hanson (Dennis Quaid) e seu filho Jeep (Lucas Black). Juntamente com Charlie (Adrianne Palicki), uma garçonete grávida, e Percy Walker (Charles S. Dutton), eles precisam encontrar um meio para sobreviver aos anjos que desejam exterminá-los a todo custo.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Legião Do Mal[COLOR yellow] ( 2011 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7DC7A348B4502AB841B409E8A9A1BBA9CBD81F48</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2B8QBVjUNUuqZFvvHsAw3gasEfQ.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Norte de Paris. Um grupo de policiais corruptos vai a um prédio, onde está escondido um gângster. Eles desejam vingar a morte de um de seus companheiros. Em meio ao confronto, algo inesperado acontece: uma legião de criaturas sanguinárias e canibais invade o prédio, atacando todos os que encontra pela frente. Diante do perigo maior, o gângster e os policiais fazem um pacto para sobreviver.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
-###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
-###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
-###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
-###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
-###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
-###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
-###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
-###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
-###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
-###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
