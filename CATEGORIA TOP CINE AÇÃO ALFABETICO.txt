@@ -1,60 +1,60 @@
 <item><name>[B][COLOR white] Filmes [COLOR gold]Numeros/Simbolos[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/76QCKstz/topcine-numeros-e-simbolos.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/ctH5zkq7</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/TOP%20CINE%20A%C3%87%C3%83O%20NUMEROS%20%26%20SIMBOLOS.txt</externallink>
 <fanart>IGNOREME</fanart>
 </item>
 #############################################################################################################################
 <item><name>[B][COLOR white] Filmes Letra[COLOR gold] A[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/FstD15Xv/top-cine-a-o-a.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/t7FmSucW</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/TOP%20CINE%20A%C3%87%C3%83O%20A.txt</externallink>
 <fanart>IGNOREME</fanart>
 </item>
 #############################################################################################################################
 <item><name>[B][COLOR white] Filmes Letra[COLOR gold] B[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/FstD15Xv/top-cine-a-o-a.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/Ni7hvGLP</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/TOP%20CINE%20A%C3%87%C3%83O%20B.txt</externallink>
 <fanart>IGNOREME</fanart>
 </item>
 #############################################################################################################################
 <item><name>[B][COLOR white] Filmes Letra[COLOR gold] C[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/g00K1G8V/top-cine-a-o-c.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/LHQ9YL33</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/TOP%20CINE%20A%C3%87%C3%83O%20C.txt</externallink>
 <fanart>IGNOREME</fanart>
 </item>
 #############################################################################################################################
 <item><name>[B][COLOR white] Filmes Letra[COLOR gold] D[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/dV6BWhkQ/top-cine-a-o-d.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/2tRx8xuw</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/TOP%20CINE%20A%C3%87%C3%83O%20D.txt</externallink>
 <fanart>IGNOREME</fanart>
 </item>
 #############################################################################################################################
 <item><name>[B][COLOR white] Filmes Letra[COLOR gold] E[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/CxS7HGK6/top-cine-a-o-e.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/4VswC8rs</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/TOP%20CINE%20A%C3%87%C3%83O%20E.txt</externallink>
 <fanart>IGNOREME</fanart>
 </item>
 #############################################################################################################################
 <item><name>[B][COLOR white] Filmes Letra[COLOR gold] F[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/43F1gjQr/top-cine-a-o-f.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/Qd3w8Zpu</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/TOP%20CINE%20A%C3%87%C3%83O%20F.txt</externallink>
 <fanart>IGNOREME</fanart>
 </item>
 #############################################################################################################################
 <item><name>[B][COLOR white] Filmes Letra[COLOR gold] G[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/7hS1Shrk/top-cine-a-o-g.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/m0y6aTRH</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/TOP%20CINE%20A%C3%87%C3%83O%20%20G.txt</externallink>
 <fanart>IGNOREME</fanart>
 </item>
 #############################################################################################################################
 <item><name>[B][COLOR white] Filmes Letra[COLOR gold] H[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/B6rc8Dyp/top-cine-a-o-h.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/XAV5KTw5</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/TOP%20CINE%20A%C3%87%C3%83O%20H.txt</externallink>
 <fanart>IGNOREME</fanart>
 </item>
 #############################################################################################################################
 <item><name>[B][COLOR white] Filmes Letra[COLOR gold] I[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/xjm3wxJ4/top-cine-a-o-i.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/FKPWPYZY</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/TOP%20CINE%20A%C3%87%C3%83O%20I.txt</externallink>
 <fanart>IGNOREME</fanart>
 </item>
 #############################################################################################################################
