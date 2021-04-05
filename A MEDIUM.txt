@@ -1,16 +1,16 @@
 <item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
 <link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS EPISODEOS DA SERIE EM LINKS DIRETOS, POREM AS VEZES FICAM OFF LINE, MAS LOGO VOLTAM A FICAR ON LINE.[/COLOR][/B]</info></item>
+
 <item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
-<item><title>[B][COLOR red]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
-<title>[COLOR red]####[COLOR lime] A MEDIUM -[COLOR yellow] 1ªTemporada[COLOR red] ####[/COLOR][/B]</title>
-<linkIGNOREME</link>
-<thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg</thumbnail></item>
+<item><title>[B][COLOR red]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[COLOR red]####[COLOR lime] A MEDIUM -[COLOR yellow] 1ªTemporada[COLOR red] ####[/COLOR][/B]</title>
+<linkIGNOREME</link><thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg</thumbnail></item>
 <item><title>[B][COLOR red]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
  
-<item><title>[B][COLOR white]EP 01 - [COLOR yellow] Piloto [/COLOR][/B]</title><linkhttps://ia801507.us.archive.org/21/items/a-medium-s-01/A%20MediumS01Ep01.mp4</link><thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg</thumbnail></item>
+<item><title>[B][COLOR white]EP 01 - [COLOR yellow] Piloto [/COLOR][/B]</title><link>https://ia801507.us.archive.org/21/items/a-medium-s-01/A%20MediumS01Ep01.mp4?cnt=0</link><thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg</thumbnail></item>
 <item><title>[B][COLOR white]EP 02 - [COLOR yellow] Decisões e Certezas [/COLOR][/B]</title><link>https://ia601507.us.archive.org/21/items/a-medium-s-01/A%20MediumS01Ep02.mp4</link><thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg</thumbnail></item>
 <item><title>[B][COLOR white]EP 03 - [COLOR yellow] Casais Escolhidos [/COLOR][/B]</title><link>https://ia601507.us.archive.org/21/items/a-medium-s-01/A%20MediumS01Ep03.mp4</link><thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg</thumbnail></item>
 <item><title>[B][COLOR white]EP 04 - [COLOR yellow] A Noite do Lobo [/COLOR][/B]</title><link>https://ia601507.us.archive.org/21/items/a-medium-s-01/A%20MediumS01Ep04.mp4</link><thumbnail>https://media.fstatic.com/xtCExtzvzJI6yqbfC4QyBAd4rVY=/290x478/smart/media/movies/covers/2011/07/49be860a49fc86f05559f02a3cd1c363.jpg</thumbnail></item>
