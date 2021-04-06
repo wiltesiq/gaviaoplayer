@@ -77,20 +77,20 @@
 </item>
 #############################################################################################################################
 <item><name>[B][COLOR white] Filmes Letra[COLOR gold] M[/COLOR][/B]</name>
-<thumbnail>https://ia601408.us.archive.org/2/items/alfabeto_20200920_1654/LETRA%20M.png</thumbnail>
+<thumbnail>https://i.postimg.cc/xdqKttVg/top-cine-a-o-m.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/TOP%20CINE%20A%C3%87%C3%83O%20M.txt</externallink>
 <fanart>IGNOREME</fanart>
 </item>
 #############################################################################################################################
 <item><name>[B][COLOR white] Filmes Letra[COLOR gold] N[/COLOR][/B]</name>
-<thumbnail>https://ia601408.us.archive.org/2/items/alfabeto_20200920_1654/LETRA%20N.png</thumbnail>
-<externallink>https://</externallink>
+<thumbnail>https://i.postimg.cc/TPSnSgRx/top-cine-a-o-n.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/TOP%20CINE%20A%C3%87%C3%83O%20N.txt</externallink>
 <fanart>IGNOREME</fanart>
 </item>
 #############################################################################################################################
 <item><name>[B][COLOR white] Filmes Letra[COLOR gold] O[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/xdqKttVg/top-cine-a-o-m.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/wVsa2VZF</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/TOP%20CINE%20A%C3%87%C3%83O%20O.txt</externallink>
 <fanart>IGNOREME</fanart>
 </item>
 #############################################################################################################################
