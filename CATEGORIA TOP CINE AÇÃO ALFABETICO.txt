@@ -96,7 +96,7 @@
 #############################################################################################################################
 <item><name>[B][COLOR white] Filmes Letra[COLOR gold] P[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/XqKFpP9N/top-cine-a-o-p.jpg</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/TOP%20CINE%20A%C3%87%C3%83O%20P.txt</externallink>
 <fanart>IGNOREME</fanart>
 </item>
 #############################################################################################################################
