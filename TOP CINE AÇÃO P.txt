@@ -1,84 +1,85 @@
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Polar[COLOR yellow] ( 2019 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a13f4a07daaf40f3ed45226111a67b04146a9d1d</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2btxGF270fxOeNJInRNnFtZGkAA.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Um assassino prestes a se aposentar precisa adiar a boa vida quando seu chefe ganancioso envia um bando de matadores jovens e cruéis para exterminá-lo[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Projeto Gemini [COLOR yellow] ( 2019 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7EC812EF4D1F9FB5966BBBAB588F869A6C4D759B</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5SB3NUXboAEKQy921TImJLoHel1.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Henry Brogan é um assassino de elite que se torna o alvo de um agente misterioso que aparentemente pode prever todos os seus movimentos. Ele logo descobre que o homem que está tentando matá-lo é uma versão mais jovem, rápida e clonada de si mesmo.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Predadores Assassinos[COLOR yellow] ( 2019 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:503A25BAD22CFB5415C8C42A484A2ED3A5B58A34</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zjy40Ia8RusC6tKxOSkx32071oi.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Quando um enorme furacão atinge sua cidade natal na Flórida, Haley (Kaya Scodelario) ignora as ordens das autoridades para deixar a cidade e vai em busca de seu pai desaparecido (Barry Pepper). Ao encontrá-lo gravemente ferido, os dois ficam presos na inundação. Enquanto o tempo passa, Haley e seu pai descobrem que o aumento do nível da água é o menor dos seus problemas.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Proud Mary - A Profissional [COLOR yellow] ( 2018 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ACAD620C23AA1BEAA4C366944038111BE5500E8</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rFm5mHVsf3gzEalFY51J2u4zxZj.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Levando uma vida de assassina, uma mulher (Taraji P. Henson) tem seu estilo de vida revirado quando conhece um jovem garoto que desperta nela um instinto materno que ela nunca havia sentido antes.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Prisão Estelar [COLOR yellow] ( 2018 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:074C7DF138EFD846555883BB0BC0A702CC1C88D3</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3vRtrW3GROqAugfkaHnqNPeQMJ2.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Em um futuro não tão distante, a Estação Espacial Internacional é uma prisão secreta. Quando os terroristas encarcerados iniciam um motim e a transformam em um míssil dirigido a Moscou, um piloto terá que fazer o impossível para impedir uma guerra.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Paranoia[COLOR yellow] ( 2018 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ac59ecf134d66a4547fd5a23eb76a5788419951</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eGlpAMgCDQ2ZnDChDCWGNagJmft.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Ela e o marido decidem deixar a cidade grande e se mudam para um condomínio tranquilo chamado The Pinnacle, extremamente moderno e seguro. No entanto, Lauren começa a suspeitar que há algo de errado com o local e pede ajuda para Vernon (John Cusack), um jornalista investigativo que tem interesse em assuntos relacionados a conspirações cibernéticas.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Perseguição Explosiva[COLOR yellow] ( 2017 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02bc3e69d02d3af2e3690a32406670b2b313c022</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uxo1Jc4iBQAsWmOI8K01YCdR2XN.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Um agente de uma empresa de segurança particular fica emboscado durante a escolta de uma antiguidade chinesa, e passa a ser perseguido pelas ruas de Xangai. Com a sua reputação e a segurança da mulher que ama em jogo, Danny terá de trabalhar com a sua equipa de especialistas em segurança, conhecida como S.M.A.R.T., para as salvar. Ao mesmo tempo que isto acontece, uma sinistra conspiração começa a se desenrolar. [/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Policial em Apuros 2[COLOR yellow] ( 2016 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E3F36A54C8CD0A140EBBAC2C8953DAB80CD8F329</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wSJG24PI4098LJQ0mEvNbRr01JF.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Sequência da dupla Ben e James em uma nova patrulha juntos. Com o seu casamento se aproximando, Ben precisa rumar para Miame com James, que está prestes a se tornar o seu cunhado, para resolver um caso. Os dois precisam derrubar um traficante local que está fornecendo produtos para traficantes de Atlanta.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Policial em Apuros[COLOR yellow] ( 2014 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B9320640F924AC3E0E61D6A94C60F194DDF90C38</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow]Ben (Kevin Hart) trabalha como segurança em um colégio, e namora a bela Angela. Quando o namoro se torna sério, ele pensa em se casar com ela, mas antes tem que enfrentar o irmão protetor dela, James (Ice Cube), um policial linha dura. Para entregar a mão de sua irmã a Ben, James faz uma proposta: os dois vão sair em patrulha juntos, durante 24h. Se ele provar ser digno de entrar na família, receberá a aprovação para o casamento.[/COLOR][/B]</info></item>
+
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Preso no Tempo[COLOR yellow] ( 2016 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1CEECC86DFACF14A37A4817B6551C41D9ADBD5EA</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t3gtmladqzynRyyDIHtEaSNPoz4.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]lex (Dean Alexandrou) é um praticante de parkour que, de um dia para o outro, acorda sem saber onde está, preso em um ciclo temporal no qual o mesmo dia se repete infinitamente. Ao tentar descobrir a razão disso, ele logo se vê inserido em um estranho experimento científico organizado pela misteriosa Prevara Corporation e percebe que muitas pessoas querem a sua morte.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Plano Principal[COLOR yellow] ( 2015 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3A20AE17CFD98648ECEC14091597C544D72516FB</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uUDcDA4AsUa51HRIiIfMJoqSfI3.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Charles deseja vingar a morte de seu tio e mentor, a pessoa em que ele mais confiava no mundo. Para isso precisará da ajuda de um vigarista, um especialista em explosivos e um especialista em abrir caixas fortes. Mas antes terá que convencê-los de que seu plano é do assalto perfeito.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Pânico no Metrô [COLOR yellow] ( 2013 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3162CAE219ED3AC3FB053A9FC6F1E80984E1E3FA</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/VLsj6U0b03nIz39iCf3NJhtj85.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]O enredo começa em 1975 durante a construção de linhas de metrô entre duas estações. Décadas mais tarde, como resultado do vazamento de água do rio Moscou, rachaduras quase imperceptíveis causam um colapso e centenas de passageiros de trem ficam à mercê de uma inundação iminente. No entanto, o fluxo de água põe em perigo não só o colapso de túneis subterrâneos, mas a destruição da cidade que estão sobre elas.O excesso de construções no centro da cidade levou ao rompimento de uma parede que protegia os túneis do metrô contra o rio que corta a capital russa. Dentro de um vagão do metrô atingido pelo desastre, estão o médico Andrey Garin e sua filha. Com a força da água cada vez mais intensa e o desespero tomando conta dos sobreviventes, eles terão que lutar para sair do metrô antes que o sistema seja totalmente destruído. [/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Príncipe de Ferro [COLOR yellow] ( 2010 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35C1B572A27D8376DABB597A36B5410D1740FAE4</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/toQaRNg34PQNEtYNRttHjWLMCmA.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Rússia, início do século 10. O reino do grande príncipe Vladmir de Kiev é composto por diversos principados e é governado pelos filhos do monarca. Os príncipes de cada localidade e seus exércitos recolhem impostos e enviam tudo para o pai, que governa tudo da capital Kiev, tendo como base econômica o comércio de escravos. No nordeste do país, fica a cidade de Rostov, um lugar cheio de dificuldades geográficas e difícil acesso. Para dominar a região, Vladmir manda seu filho Yaroslav, de apenas 11 anos de idade. Com o passar dos anos, o menino cresce e se torna um verdadeiro conquistador, tendo ampliado os domínios de seu pai e mantido Rostov sob controle. Quando uma invasão bárbara tem início, Yaroslav terá que usar toda sua habilidade de combate para evitar que o reino entre em colapso.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Predador Ártico[COLOR yellow] ( 2010 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F1EBE4F1E7ED53531530BB231F5B86876163BCFE</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gK3HXe2Edg0jASvtwCSerU8hG84.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Um grupo de pesquisadores está reunido para explorar um navio que naufragou durante o século 19, em uma região próxima ao Ártico. O trabalho segue normalmente até encontrarem um corpo alienígena congelado, colocando a vida de todos em perigo.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Pandorum[COLOR yellow] ( 2009 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:339fad47ed519ac93d11a9dd1c28345563c91676</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qw4uQL3wBq7eP0QVXlj2Q7uQ0UX.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Em 500 anos a humanidade estará migrando do Planeta Terra pois ele estará morrendo.è quando os astronautas Payton e Bower acordam em uma câmara de sono profundo, dentro de uma espaçonave aparentemente abandonada, sem memória de quem são ou de qual missão eles estão participando. Enquanto Payton fica por de trás de um monitor de rádio, Bower se aventura a explorar a espaçonave. Os dois astronautas logo se dão conta de que eles não estão sozinhos e de que o destino da humanidade dependerá das ações que eles tomarem.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Presságio [COLOR yellow] ( 2009 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2ae487e093b75287ce2a7c123a26b69081f46ec</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/At03GrpqsbeomLuLTRCyCMvSFI5.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Um professor (Nicolas Cage) abre uma cápsula do tempo que foi desenterrada na escola de seu filho; dentro dela há algumas previsões assustadoras - algumas que já aconteceram e outras que ainda estão por vir. Isto leva o professor a acreditar que sua família faz parte dos eventos que foram descritos nas previsões.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Paranoia[COLOR yellow] ( 2007 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08281235f33a3abe5da85023d9f55f4e09b976db</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/atL5uJGwq15C4Xq7PbFcAnDz6zK.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]O jovem Kale está em prisão domiciliar por três meses. Em meio ao tédio, ele adquire a prática de espionar a vida alheia e conhece a Ashley, sua linda vizinha. Até que um dia eles começam a suspeitar que o morador da casa ao lado seja um assassino.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Profecia - A Guardiã do Destino[COLOR yellow] ( 2005 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7618172a25db2bf35d6e9b44a766b6118c8bf85d</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow]Allison, uma jovem mulher, que ajuda um padre numa igreja, descobre a existência de um livro, o Léxico, que contém textos secretos da Bíblia até hoje não publicados. Agora ela é a guardiã da fé da humanidade e começa a ser perseguida por um estranho ser que muda de corpo, sem antes mutilar. Allison é guiada por mensagens de uma voz que tenta ajudá-la a se livrar do perigo. Ao mesmo tempo um policial da Interpol passa a acompanhar outro tira na investigação de um serial killer que arranca o coração de suas vítimas. Na Terra, o bem e o mal vão se encontrar numa horripilante batalha, que pode mudar o destino dos homens. [/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (    )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (    )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (    )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (    )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (    )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (    )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (    )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (    )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (    )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (    )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
