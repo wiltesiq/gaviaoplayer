@@ -1,84 +1,84 @@
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Rebelião [COLOR yellow]( 2015 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BD86F562FDC5F85963B32A5BD2CFE3E46BB82801</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5Q2pHzDfJ8QlUA2vx2yAXWJkof7.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Jack Stone é um criminoso que propositadamente organiza um assalto a banco, a fim de ser jogado na prisão com o notório chefão russo Balam, responsável pelo assassinato de sua família.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Reação em Cadeia[COLOR yellow]( 2015 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96C9ED5035F4D58BF67850DC598F5D5D970C0965</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cWIaFxHV8Y6xtLYCcMotDKYnE0B.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR]Um dia, os amigos Tuck, Munch e Alex começam a receber mensagens estranhas em seus telefones celulares. Eles suspeitam que a nova construção no bairro esteja relacionada com essas frases codificadas, mas os pais e as autoridades locais não prestam atenção nos garotos. Pesquisando sozinhos, eles descobrem que existe um ser alienígena tentando se comunicar com eles, e precisando urgentemente de ajuda.[/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][REC] 4 - Apocalipse[COLOR yellow]( 2014 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e324b8e4862c39e4ec54456cebc0037c66d2b89</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uUGdIdCl8Fy4TRcXLizRCDPQJ5R.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Uma repórter de TV, única sobrevivente de uma epidemia zumbi, é confinada em um barco no meio do mar, onde tentam achar a cura. Mas o perigo encontra-se a bordo.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Rise - A Ressurreição[COLOR yellow]( 2007 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66AC731138F3C84C2FE0D6F461839ADA15C9BEB9</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sfx5dMCZPxvVXnK9xpZyl1OMPC1.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Sadie é uma repórter investigativa que descobre um culto subterrâneo que está atraindo jovens hippies de Los Angeles. Seduzidos pela promessa de grandes festas, esses garotos começam a aparecer mortos, e quando Sadie tenta chegar ao fundo da história, se torna a vítima. Ela acorda no necrotério, nem viva nem morta, uma vampira consumida pelo insaciável desejo de sangue. Tentando desesperadamente brigar contra essa sede, Sadie decide ir atrás das pessoas que a tornaram uma vampira. Ela se une ao detetive Rawlins, que teve sua filha assassinada pelo clã, e os dois buscam juntos suas vinganças.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
