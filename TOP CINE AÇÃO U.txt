@@ -1,84 +1,86 @@
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]UFO - Estamos Sozinhos? [COLOR yellow] ( 2018 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33632F8F926C76F3A6049E519A73AAE679FA183B</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jdy1GTdaAXqhsCVOpIXokifYdCh.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Derek, um estudante brilhante, assombrado por um avistamento de UFO (OVNI) na infância, acredita que avistamentos misteriosos reportados em múltiplos aeroportos nos Estados Unidos são UFOS. Com ajuda de sua namorada, Natalie, e sua professora de Matemática Avançada, a Dra. Hendricks, Derek corre para desvendar o mistério com o agente especial do FBI, Franklin Ahls na sua cola.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Um Tira e Meio - A Nova Recruta[COLOR yellow] ( 2018 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2442f28dfcc81a7fd57708d36cc52ccccc2f60a8</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7oxV17djCcUE2xFgrL5YE7RedX.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Karina Foley é uma astuta garota de 12 anos que sonha em ser policial. Durante uma tocaia, ela conhece Simmons e mostra ter um inegável talento investigativo e grande facilidade com tecnologia. Apesar de Simmons tentar ignorar Karina, o capitão da polícia decide trabalhar com ela para solucionar o caso. Enquanto tenta deter o “Bandido do Distintivo”, a dupla improvável embarca numa aventura divertida e repleta de ação.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Um Novo Desafio Para Callan E Sua Equipe[COLOR yellow] ( 2017 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D5C7EDA6A22C927E70670DAD8DD06494CC3A1653</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oTru4TETVZ7j8qkX7HZj0wjnSm1.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Direto dos quadrinhos para as perigosas ruas de Los Angeles... armado com um Cross, antigo e poderoso amuleto, Callan (Brian Austin Green) e seu time de especialistas em armas combatem os bandidos locais e outros criminosos terríveis. Quando um cruel vilão chamado Muerte (Danny Trejo) ameaça matar a gangue de Callan, ele e seu time juntam forças com um esquadrão de combate ao crime formado só por garotas e liderado por Riley – que tem seu próprio amuleto ancestral! Mas Muerte não trabalha sozinho. Ele ressuscitou o malvado e imortal Gunnar (Vinnie Jones), que tem um plano mais sinistro do que se pode imaginar. Será que Callan consegue evitar o iminente apocalipse e salvar a humanidade? É o suficiente para enlouquecer um super-herói! [/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Um Dia para Viver[COLOR yellow] ( 2017 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3E9573CFE0225553C6CC0EBFD417C652FD77C68E</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xDe7Eioe3VqE0TM7GSSPcCnRaCY.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Um assassino (Ethan Hawke) ganha uma segunda chance quando seu empregador o traz de volta à vida temporariamente, logo após ter sido morto no trabalho. Ele ganha então 24 horas para realizar sua missão e se redimir.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Um Espião E Meio[COLOR yellow] ( 2016 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:402DB6F5490814105B2B1FFBF48E8B3273A43ACD</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/skS83M9X1Gzpp8toRzSkLhevgxj.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Antes de se tornar um agente da CIA, Bob sofria bullying na época do colégio. Já na agência, para resolver um caso ultrassecreto, ele recorre a um antigo colega, popular nos tempos da escola, hoje contador.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Um Dia Difícil[COLOR yellow] ( 2014 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75262897F57939F267B7F874200424DD88696D0B</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xbF2FGNUjHrrjgXsAFIoWGKPrah.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Voltando do enterro de sua mãe, Gun-su (Lee Sun-kyun), detetive da polícia criminal, mata um homem em um acidente de carro. Para encobrir o caso, ele decide esconder o corpo do homem no caixão de sua mãe. Quando o caso ganha importância na polícia, seu parceiro de trabalho é nomeado para fazer a investigação. Gun-su acompanha o desenvolvimento do caso, conforme os detalhes do acidente 
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Um Álibi Perfeito[COLOR yellow] ( 2014 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnailhttps://www.themoviedb.org/t/p/w600_and_h900_bestv2/xz2GPDlXuVfH8FgL81dqSSsSF0Q.jpg></thumbnail><info>[B]Sinopse:[COLOR yellow]Mitch (Dominic Cooper) sai com os amigos para um bar, e no fim da noite, embriagado, ele pega o carro para voltar para casa. Um homem aparece em seu caminho, e Mitch o atropela. Sem saber como agir, esse jovem advogado deixa o cadáver na rua e foge, pensando não ter sido visto por ninguém. Nos dias seguintes, outro homem, Clinton (Samuel L. Jackson) é incriminado pelo assassinato, e o advogado chamado para defendê-lo é justamente Mitch.[/COLOR][/B]</info></item>vão sendo revelados. As coisas ficam ainda pior quando uma testemunha do acidente ameaça Gun-su.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Um Homem Contra Wall Street[COLOR yellow] ( 2013 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a6d74a5a87e2dcae957083199b44423e1032f15</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4dm5XEXIT73aB0g1nrplwYguaU9.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Jim é um cara que viver um sonho americano, uma vida tranquila, com um emprego bem remunerado e uma família amorosa. De repente, tudo muda quando a economia cai fazendo Jim perder tudo. Cheio de raiva e fúria, Jim vai ao extremo em busca de vingança pela vida que lhe foi tirada...[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Um Tira Acima Da Média[COLOR yellow] ( 2005 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EBCFBD6A22DC4A0D342D586FAA59E7742F312FA5</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kyS58pd3rjrvgD1R7NLDMf14JAU.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]O jovem policial Tracy (Nick Cannon) faz a patrulha de seu bairro a bordo de sua bicicleta, esperando a chance de um dia se tornar um detetive de verdade. Mesmo sem a aprovação de seu superior, ele decide se infiltrar como aluno num colégio particular da elite para descobrir qual a ligação da escola com uma quadrilha e ladrões de carros de luxo.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Um Diretor Contra Todos[COLOR yellow] (  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e78e22b438115f8485cadbc7c674f9ba4d8cecbd</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/doagXhvFljZefORYLiCXNk3j3ik.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Rick Latimer (James Belushi) é um professor que consegue o emprego de diretor da Brandel High, uma escola com péssima reputação. Na verdade esta transferência foi um castigo, por Latimer ter agredido o namorado da sua esposa, apesar de Rick e sua mulher já estarem em processo de divórcio. Os alunos da Brandel são na maioria afro-americanos e latinos e vários já foram expulsos de outros colégios. Jake Phillips (LOuis Gossett Jr.), o chefe da segurança da escola, logo ensina para o novo diretor como as coisas funcionam em Brandel. Porém Rick não quer aceitar de forma nenhuma que o colégio continue sendo um antro de violência e vendas de drogas. Ele reúne os alunos para uma assembléia e diz que toda a bandalheira reinante em Brandel acabou. Isto faz com que alunos mais rebeldes de revoltem, especialmente o violento Victor Duncan (Michael Wright), que é chefe de uma gangue.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Um Tira Muito Suspeito[COLOR yellow] ( 2000 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6B05A46D55B569B21F98F9139503B26A4FC76B78</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oj9MswgyhDWeXPn0B0avcVy7oRx.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Miles Logan (Martin Lawrence) um ladrão de jóias, mas as coisas não correm muito bem em um assalto em que ele rouba um grande diamante, pois Deacon (Peter Greene), um cúmplice, o traiu e ele acabou sendo preso. Mas antes de ser capturado Miles escondeu a gema no duto do ar de um edifício em construção, para poder recuperá-la quando fosse solto. Dois anos depois Logan libertado e, desesperado, descobre que o prédio onde escondeu a pedra agora o quartel-general da polícia de Los Angeles. Tentando recuperar o diamante, ele se faz passar por Malone, um detetive que teria sido transferido. Mas antes que possa recuperar a pedra ele se torna parceiro de Carlson (Luke Wilson), um detetive aparentemente ingênuo, com quem tem que investigar roubos. Com Deacon no seu rastro, ele tenta recuperar a gema enquanto que paralelamente ilude os policiais de tal forma que logo se torna detetive-chefe da seção de roubos e, apesar de ainda querer o diamante, vai se tornando um exemplo entre os policiais.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] ( 2000 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=<magnet:?xt=urn:btih:fc338ff9ebae04883814e7195ae4541b2356e8c6/link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yeUhRSrlFcXhsuUai2ozWH6rNnK.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Logo no início da Segunda Guerra Mundial, os navios aliados eram afundados diariamente pelos submarinos U alemães. A bordo do submarino S-33, o tenente Andrew Tyler (Matthew McConaughey) e seu superior, o comandante Mike Dahlgren (Bill Paxton), recebem ordens para se aproximar de forma camuflada de um destes submarinos no intuito de conseguir uma máquina de escrever que permitirá decifrar os códigos alemães utilizados na guerra. Entretanto, um ataque surpresa faz com que oito integrantes da tripulação do S-33 tenham que seguir viagem no submarino alemão U-571.[/COLOR][/B]</info></item></################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
