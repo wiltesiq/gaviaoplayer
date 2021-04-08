@@ -114,7 +114,7 @@
 #############################################################################################################################
 <item><name>[B][COLOR white] Filmes Letra[COLOR gold] S[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/bY11CZ4X/top-cine-a-o-s.jpg</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/TOP%20CINE%20A%C3%87%C3%83O%20S.txt</externallink>
 <fanart>IGNOREME</fanart>
 </item>
 #############################################################################################################################
