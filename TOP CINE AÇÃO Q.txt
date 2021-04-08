@@ -1,82 +1,87 @@
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Quarteto Fantástico[COLOR yellow]( 2015 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6EDA2E425557635CC90756571C7B2A45912854F9</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/XJ8jZ4hGyusnN41NnxR0vv5ghS.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Quatro jovens astronautas ganham superpoderes ao serem transportados a um universo alternativo e ficarem expostos à radiação cósmica. Eles precisam usar suas novas habilidades para proteger o planeta contra o Doutor Destino[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Queda Mortal[COLOR yellow]( 2013 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9d3a6f10010743e41a4007d35ed075ef128f0a8</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow]O ex-agente da CIA infiltrado virou contratado do governo uma perigosa quadrilha de contrabando norte mexicano. Depois que ele é jogado para fora de um avião a 5.000 pés e milagrosamente sobrevive a queda, ele embarca em uma cruzada violenta para encontrar o homem que atirou-o para fora do avião.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Quando um Estranho Chama[COLOR yellow]( 2006 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40257DCD141D311CEFFF6937FA75C396250E089B</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/53LzSw15olAkNW48GkrPkxCbJBx.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Jill Johnson (Camilla Belle) é uma jovem que está trabalhando como babá em uma remota casa, localizada no topo de uma colina. Com as crianças dormindo, ela tranca a porta e liga o alarme geral. É quando tem início uma série de telefonemas, em que uma pessoa estranha repetidamente insiste que ela cheque as crianças. Assustada, Jill consegue rastrear as ligações e descobre que as ligações são feitas dentro da própria casa.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Queime Depois De Ler [COLOR yellow]( 2008 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9D02E48686CC6A572509C97CA5CCAB319D9490CB</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fPW8Vs6WiXDpQGww1W3I3hjN74s.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Após ter sido despedido, um ex-agente da CIA decide escrever as suas memórias documentando segredos do governo mas, durante as partilhas do divórcio, a sua ex-mulher rouba-lhe um disco com o único exemplar do manuscrito. Por engano, esse mesmo disco cai nas mãos de dois empregados de um ginásio, um homem e uma mulher sem escrúpulos, que tencionam explorar ao máximo a sua descoberta, vendendo a informação de forma a poderem pagar uma cirurgia plástica. É então chamado um agente da CIA para resolver o caso… custe o que custar.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Quarteto Fantástico e o Surfista Prateado [COLOR yellow]( 2007 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xMGHJnUovhF8BVRQFdMgwf99Q2g.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Reed Richards (Ioan Gruffudd) e Susan Storm (Jessica Alba) estão prestes a se casar. Porém, durante a cerimônia, algo estranho surge nos céus de Nova York. Trata-se do Surfista Prateado (Doug Jones), um ser alienígena que possui grandes poderes e que trabalha como arauto de Galactus, o destruidor de planetas. O Surfista veio à Terra para prepará-la para ser destruída por seu mestre, mas para atingir seu objetivo precisará enfrentar o Quarteto Fantástico.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Quarteto Fantástico[COLOR yellow]( 2005 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d4c6c1ee5af23781111db87ed08e6d51deb1a9b</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l7NpBV9CrHGTmUuLZbWTjsOFVal.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]O cientista Reed Richards convence seu arrogante colega Victor von Doom a financiar seus experimentos com energia cósmica. Na estação espacial Von Doom, a tripulação, incluindo o astronauta Ben Grimm, a pesquisadora Sue Storm e o piloto Johnny Storm, é exposta a uma tempestade cósmica misteriosa que dá superpoderes a eles. Eles tentam lidar com suas transformações enquanto o detestável von Doom jura vingança.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Quebrando Regras[COLOR yellow]( 2008 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2bf77a2e281b462a6571667539de4bec20483297</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4YL4IgRvZ1s7tbqfasuRkPnDy6V.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]O adolescente Jake Tyler (Sean Faris) é um rebelde por natureza. Sua vida muda completamente quando ele se envolve com o clube de luta secreto de sua escola, tendo como mentor um veterano das artes marciais. Após perceber que sua família e amigos estão com a segurança sob ameaça ele decide se concentrar na luta contra seu principal algoz Ryan McCarthy (Cam Gigandet)[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Quebrando Regras 2[COLOR yellow]( 2011 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5514eca84552d96b1a0a709074b07ae07fde961</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dCTsgWyQKmrMopvtMHtnGA2tghW.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Quatro jovens de origens diversas são treinados em MMA pelo experiente – e nada ortodoxo – Case (Michael Jai White) para a competição “The Beatdown”. Antes do grande evento, no entanto, Case cai numa armadilha e os rapazes se unem para vingar o mestre e acabar com o traidor.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Quebrando Regras 3: Não Se Renda[COLOR yellow]( 2016 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2B95627C79D74CDD2529EB3207F0D79BC6799F76</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zxASjkP5seyJ261mNqbGPajHjQf.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Ex-campeão do MMA, Case Walker (Michael Jai White) se manteve fora dos holofotes, vencendo pequenas competições regionais, após se recusar a entrar em uma poderosa nova liga que é a favor do uso de anabolizantes. Seu antigo amigo e famoso lutador Brody James (Josh Barnett) convence Walker a ir à Tailândia e treiná-lo para uma grande luta contra o mortal e invicto Caesar Braga (Nathan Jones). Durante o treinamento, Brody sofre uma lesão. Sob a pressão de um inescrupuloso e poderoso promotor (Esai Morales), Walker aceita substituir James e lutar contra seu mais desafiador oponente, mas apenas de acordo com suas próprias condições.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+###########################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow](  )[/COLOR][/B]</title>
+<link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 <item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
