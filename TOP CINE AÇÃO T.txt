@@ -1,84 +1,85 @@
+
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Troca Fatal[COLOR yellow] ( 2016 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3111C6D25A7E928AD8ADAA75C5C5334D3A3B8382</link><thumbnail>https://4.bp.blogspot.com/-SnrakhYrRgQ/W2ORsnJkrlI/AAAAAAAAO6w/FWRDA6DkW3gsGXJa_ypsC_RK8vCZ5eBPACLcBGAs/s1600/Troca%2BFatal%2Btorrent%2Bdowload%2Bdublado%2Bbluray.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Por engano, Jennifer pega a mala de um homem no aeroporto. Ela precisa devolver o que é dele se não quiser colocar a vida da filha em risco.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Tekken 2 - A Vingança de Kazuya[COLOR yellow] ( 2014 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2E0251951F6E41574888655A97EB6FD0D426152B</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bFBMhIwGsrHKTCB5OFqVx879xoB.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Um garoto que sofre amnésia tenta encontrar sua identidade e reencontrar sua antiga vida. Ele é sequestrado pela máfia, onde sofre uma transformação. Ele agora é um assassino de primeira.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Tekken[COLOR yellow] ( 2010 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ccf57d2c524fdaf08df3d534bd6558b69e58def3</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tlpRr3MQGS1ACVIqL1AArhlZ023.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]No ano de 2039, o lutador de rua Jin testemunha o assassinato de sua mãe pela Tekken, a mais terrível das corporações que dominam o mundo. Ele parte para a vingança buscando sagrar-se campeão em um mortal torneio de luta.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Temporada de Caça[COLOR yellow] ( 2013 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d5e827a1b877dc34acf7fa534c1c01e19b0cca6</link><thumbnail>https://i.imgur.com/vLGdSvt.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]O americano Benjamin Ford (Robert De Niro) é um veterano da Guerra da Bósnia, que decide morar em uma cabana isolada na floresta para esquecer os traumas dos anos de combate. Mas as lembranças vêm persegui-lo na figura de Emil Kovac (John Travolta), um militar bósnio que pretende acertar contas com Ford. Logo começa um longo combate físico e psicológico entre os dois.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Tiras em Apuros[COLOR yellow] ( 2010 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E936437023DDD4C51A044DA722779CAC92EF6971</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n7jukP3epnOIMMVWEpj95pRvrWX.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Jimmy Monroe (Bruce Willis) é um detetive veterano, que está ocupado com os preparativos para o casamento da filha (Michelle Trachtenberg). Juntamente com Paul Hodges (Tracy Morgan), ele precisa investigar o roubo de um raro cartão de baseball de 1952. Só que Hodges tem outro motivo para se preocupar: a suposta infidelidade de Debbie (Rashida Jones), sua esposa.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Tolerância Zero[COLOR yellow] ( 2015 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88e2dad7e4106f3e015ab074bb963ef756adc227</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ueIcGc9Msnir75wDDjjF6tG4dwK.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Dois ex-agentes para-militares, Johnny e seu amigo detetive Peter, vão a Bangkok para encontrar os assassinos de Angel, a bela filha de Johnny[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Três Guerreiros - A Ressurreição Do Dragão[COLOR yellow] ( 2009 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2EEAAA4A496C244FAB3A58D39753D241778B8904</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gYlE7DY4a1Nic2zyawH6disht4D.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Valente general se torna uma verdadeira lenda graças à sua coragem e às suas sucessivas vitórias. Durante sua vida, seu maior objetivo foi unificar o reino de Shu, mas, cansado, não conseguiu concretizar esse desejo. Agora, ele terá de duelar com a exímia guerreira que comanda o reino de Wei e decide que essa será sua última chance de ver seu sonho se tornar realidade. Para isso, terá de partir para uma batalha perigosa, em que enfrentará três poderosos guerreiros de uma só vez.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Trovão Negro[COLOR yellow] ( 2009 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7668FCC577D1B8FE20DB3630DD97D9F64FB3ED33</link><thumbnail>https://i.imgur.com/W9N6osw.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Um estudante universitário de Moscou se torna o dono de um carro voador, ele, então, consegue fugir do caótico transito da cidade mas ele acaba se tornando o defensor da cidade, um misterioso rapaz que luta contra o mal. Trovão Negro é um filme russo produzido pelo diretor de O Procurado, Timur Bekmambetov[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Traumas de Infância[COLOR yellow] ( 2016 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BE70000EC52E2FD6834723D02E7A958756E92995</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4fA9YmHYamUlGd4rU0EKtRr5Z1T.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]O decadente escritor Stephen Elliott (James Franco, Planeta dos Macacos A Origem) fica obcecado por um crime de grande repercussão, envolvendo um empresário (Christian Slater, Amor à Queima-Roupa) que assassinou brutalmente a mulher. À medida que mergulha no complicado caso, Elliott é atormentado pelas lembranças de sua própria infância sofrida. Quando seu pai (Ed Harris, Apollo 13 Do Desastre ao Triunfo) reaparece misteriosamente, dizendo que todas as tenebrosas memórias do filho são inventadas, Elliott, com sua namorada Riana (Amber Heard, Machete Mata) vai procurar separar a realidade da ficção, mas rapidamente tudo foge do controle.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow](  ) [COLOR red] [/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
