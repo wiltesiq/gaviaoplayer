@@ -1,25 +1,21 @@
 <item><title>[B][COLOR red]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR crimson]################ [COLOR white] 3%[COLOR lime] 1ª Temporada[COLOR white] TORRENT [COLOR crimson]################[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8672AD46FC0F1BDD3F6079D8FC091B7744FA7D43</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]Temporada completa com tds episodeos links torrents[/COLOR][/B]</info></item>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8672AD46FC0F1BDD3F6079D8FC091B7744FA7D43</link><thumbnail>https://media.fstatic.com/N-XqBz6C14NVd4XbSO90BscC3zE=/210x312/smart/media/movies/covers/2018/04/three_percent_ver3.jpg</thumbnail><info>[B][COLOR yellow]TEMPORADA COMPLETA COM TODOS ARQUIVOS EM LINK TORRENT, E NESCESSARIO TER O ADDON ELEMENTUM E O ELEMENTUM BURST INSTALADO PARA ABRIR OS ARQUIVOS[/COLOR][/B]</info></item>
 <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 <item><title>[B][COLOR red]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR crimson]############## [COLOR white] 3%[COLOR lime] 2ª Temporada[COLOR white] TORRENT [COLOR crimson]##############[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5DDA2F28A7253C4D84200C26E887CB1DC9D3ABAC</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]Temporada completa com tds episodeos links torrents[/COLOR][/B]</info></item>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5DDA2F28A7253C4D84200C26E887CB1DC9D3ABAC</link><thumbnail>https://media.fstatic.com/L677zO6_HKrj_GY3qS1N_VoU1As=/210x312/smart/media/movies/covers/2018/04/3-1.jpg</thumbnail><info>[B][COLOR yellow]TEMPORADA COMPLETA COM TODOS ARQUIVOS EM LINK TORRENT, E NESCESSARIO TER O ADDON ELEMENTUM E O ELEMENTUM BURST INSTALADO PARA ABRIR OS ARQUIVOS[/COLOR][/B]</info></item>
 <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
-
 
 <item><title>[B][COLOR red]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR crimson]############### [COLOR white] 3%[COLOR lime] 3ª Temporada[COLOR white] TORRENT [COLOR crimson]###############[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc8a3bac689fe8fa586f3e692e9427e43c0b4195</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]Temporada completa com tds episodeos links torrents[/COLOR][/B]</info></item>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc8a3bac689fe8fa586f3e692e9427e43c0b4195</link><thumbnail>https://media.fstatic.com/CI-cyipdBagl4TPSUFu4EPy85oI=/210x312/smart/media/movies/covers/2019/06/D728cdIXUAA85IZ.jpg</thumbnail><info>[B][COLOR yellow]TEMPORADA COMPLETA COM TODOS ARQUIVOS EM LINK TORRENT, E NESCESSARIO TER O ADDON ELEMENTUM E O ELEMENTUM BURST INSTALADO PARA ABRIR OS ARQUIVOS[/COLOR][/B]</info></item>
 <item><title>[B][COLOR red]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
-
-
-
 
 
 <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR crimson]################ [COLOR white] 3%[COLOR lime] 4ª Temporada[COLOR white] TORRENT [COLOR crimson]################[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0bf235456891e100083eb9c610f80ae744d4324b</link><thumbnail>https://media.fstatic.com/JM6-MDFTVCDOUB0WX6TFCZHQTzc=/290x478/smart/media/movies/covers/2018/04/Netflix-3-GroupPoster-copy1.jpg</thumbnail><info>[B][COLOR yellow]Temporada completa com tds episodeos links torrents[/COLOR][/B]</info></item>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0bf235456891e100083eb9c610f80ae744d4324b</link><thumbnail>https://media.fstatic.com/JM6-MDFTVCDOUB0WX6TFCZHQTzc=/290x478/smart/media/movies/covers/2018/04/Netflix-3-GroupPoster-copy1.jpg</thumbnail><info>[B][COLOR yellow]TEMPORADA COMPLETA COM TODOS ARQUIVOS EM LINK TORRENT, E NESCESSARIO TER O ADDON ELEMENTUM E O ELEMENTUM BURST INSTALADO PARA ABRIR OS ARQUIVOS[/COLOR][/B]</info></item>
 <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
