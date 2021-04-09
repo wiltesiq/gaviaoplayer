@@ -1,7 +1,7 @@
 
 <item><name>[B][COLOR crimson]##############################################################[/COLOR][/B]</name><externallink>IGNOREME</externallink><thumbnail>IGNOREME</tumbnail></item>
 <item><name>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</name>
-<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/3%25.txt</externallink><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM externallinkS TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS externallinkS[/COLOR][/B]</info></item>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/3%25%20TORRENTE.txt</externallink><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM externallinkS TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS externallinkS[/COLOR][/B]</info></item>
 <item><name>[B][COLOR crimson]##############################################################[/COLOR][/B]</name><externallink>IGNOREME</externallink><thumbnail>IGNOREME</thumbnail></item>
 
 
@@ -11,5 +11,5 @@
 
 <item><name>[B][COLOR crimson]##############################################################[/COLOR][/B]</name><externallink>IGNOREME</externallink><thumbnail>IGNOREME</tumbnail></item>
 <item><name>[B][COLOR crimson]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR crimson]###[/COLOR][/B]</name>
-<externallink>IGNOREME</externallink><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM externallinkS DIRETOS,POREM AS VEZES FICAM OFF LINE,MAS LOGO VOLTA A FICAR ON LINE.[/COLOR][/B]</info></item>
+<externallink>https://raw.githubusercontent.com/wiltesiq/gaviaoplayer/main/3%25%20link%20direto.txt</externallink><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LNKS DIRETOS,POREM AS VEZES FICAM OFF LINE,MAS LOGO VOLTA A FICAR ON LINE.[/COLOR][/B]</info></item>
 <item><name>[B][COLOR crimson]##############################################################[/COLOR][/B]</name><externallink>IGNOREME</externallink><thumbnail>IGNOREME</thumbnail></item>
