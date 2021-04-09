@@ -1,63 +1,37 @@
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]XXX - Triplo X [COLOR yellow] ( 2002 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8e6b91fe905e6b4cae58e60bc0e326dd73bea59</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pidUN1PgLjSld1OX22j6RycK7qd.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]O ex-atleta de extremos esportes Xander " XXX" Cage, famoso por suas acrobacias que desafiam a morte, é convencido de que ele possa ter sucesso onde outros espiões convencionais falharam. Xander é recrutado pelo agente Gibbons para se tornar um tipo diferente de agente secreto. Alistado em uma perigosa missão secreta, ele precisa usar todas as suas habilidades extremas para combater o inimigo.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]XXX Triplo X 2 - Estado De Emergencia[COLOR yellow] ( 2005 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3015ee3d4064213f2ab6bcee590bf4ec249ffeb</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fnSzxO7T9AsRv4QbSILloZhgAAc.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]O presidente dos Estados Unidos está recebendo ameaças de um grupo de dissidentes radicais engajados no próprio governo. Após sobreviver a um atentado ao quartel-general da Agência de Segurança Nacional, Augustus Gibbons precisa novamente encontrar um pária que possa ajudá-lo. O escolhido é Darius Stone, um condecorado soldado de Operações Especiais que está em uma prisão militar, sob pesada vigilância. Ao ser solto, o novo agente Triplo X precisa se infiltrar para identificar os rebeldes.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]XXX Triplo X 3 - Reativado[COLOR yellow] ( 2017 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B1F0CAAAF84170B99317E558FC3DC1199D5AC39A</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rc830XBY2h8HBtHeISpR9qb2PU6.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Xander Cage desiste de sua aposentadoria quando Xiang, um guerreiro alfa mortal, coloca suas mãos em uma arma indestrutível chamada de Caixa de Pandora. Xander recruta os melhores soldados do mundo para destruir o vilão e paralelamente tem que enfrentar uma resistência formada por governos corruptos de todo o mundo.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Wolverine - Imortal[COLOR yellow] ( 2013 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:197c3e6ede503df08734ce3e30656f637a50d44e</link><thumbnailhttps://www.themoviedb.org/t/p/w600_and_h900_bestv2/wCP2JfaRFdrFjxiXTUdNnfvyJ2K.jpg></thumbnail><info>[B]Sinopse:[COLOR yellow]Após matar Jean Grey para salvar a humanidade, Logan passou a viver na selva. Deprimido, ele é encontrado em um bar pela jovem Yukio, filha de Yashida, que foi salvo por Logan em Nagasaki na época da bomba atômica. Yashima deseja reencontrar Logan para fazer-lhe uma proposta: transferir seu fator de cura para ele, de forma que Logan possa, enfim, se tornar mortal e levar uma vida como uma pessoa qualquer. Ele recusa o convite, mas acaba infectado por uma mutante imune a venenos de todo tipo.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Watchmen - O Filme [COLOR yellow] ( 2009 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff839e02f131f6dbbf3b52699535d779ce62359d</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oYEF02pi6goGRAXgfL0MZq5jFEo.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Um de seus antigos colegas é assassinado, e o vigilante mascarado Rorschach decide investigar um plano para matar e desacreditar todos os super-heróis do passado e do presente. À medida que ele se reconecta com sua antiga legião de combate ao crime, um grupo desorganizado de super-heróis aposentados, dentre os quais somente um possui verdadeiros poderes, Rorschach vislumbra uma ampla e perturbadora conspiração que está ligada ao passado deles e a catastróficas consequências para o futuro.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Wheelman - Motorista de Fuga[COLOR yellow] ( 2017 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32c47aa108e5a33752488d84d6e0d9ae63e0cbf1</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yeHRsKOlNDsbEIALS1ve6S42Nl6.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Depois de um assalto a banco dar errado, um motorista (Frank Grillo) percebe que foi traído e começa uma fuga de vida ou morte. Na caçada para descobrir quem foi o traidor, a única pessoa em que ele pode confiar agora é sua filha Katie (Caitlin Carmichael), de apenas 14 anos. [/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Wasabi[COLOR yellow] ( 2001 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f124e93e584f985cfd5008470230c788dbc18e58</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7TbnpjIKzq5OKUyF72rcwNDyI5f.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Após uma briga com o chefe de policia, Hubert Fiorentini, um detetive policial, é obrigado a tirar férias. Poucos dias depois ele recebe um telefonema de um advogado do Japão, avisando que Miko, o grande amor de sua vida e que estava desaparecida há 20 anos, havia falecido recentemente. Hubert, parte imediatamente para Tóquio, onde descobre que Miko, lhe deixou duzentos milhões de dólares e a posse de Yumi, sua filha problemática. Desconfiado, Hubert, procura Momo, seu antigo parceiro na polícia, sendo que juntos descobrem a verdade em torno da misteriosa morte de Miko, e seu envolvimento com a máfia japonesa.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Zumbis e Robôs[COLOR yellow] ( 2013 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B6219F9C56E4996ACD969A192B239C67AB866C52</link><thumbnail>https://i.imgur.com/bU5XTvr.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Num futuro próximo, um grupo sobrevive em uma área de testes em ruínas após um grave acidente. O problema é que a catástrofe liberou um vírus que matou milhares e causou mutações em outras tantas pessoas transformadas em zumbis. Max Gatling (Dolph Lundgren) que lidera um grupo militar tem como missão acabar com os infectados usando um exército de robôs.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Zoom - Academia de Super-Heróis[COLOR yellow] ( 2006 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:447CE1046AF889A25808516C6E159CCEBD9A01B0</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/72jIErd8SMsEmqfhFqTadusECvL.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Aperte os cintos e prepare-se para um filme do outro mundo! Quando a Terra está em iminente perigo de ser destruída, um fora de forma e desempregado ex-super herói é chamado para salvar a pátria. Esse herói é Jack Shepard, também conhecido como “Capitão Zoom” (Tim Allen). O problema é que ele perdeu todos os seus poderes. E agora, o General Larraby (Rip Torn) e o Dr. Grant (Chevy Chase) terão que convencê-lo a aceitar mais uma missão: treinar um desorganizado grupo de crianças com super poderes incríveis. Com a ajuda da intelectual Marsha Holloway (Courteney Cox), eles aprenderão a trabalhar em equipe e unir seus poderes para combater uma ameaça cruel que está determinada a criar a maior confusão em nossas vidas. [/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]Zona Verde[COLOR yellow] ( 2010 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75DDDB91512597F895D07544C5AB993A5F62AD4C</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tlEoxWgpGare9YrttfWNCXOq5Qt.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]Bagdá, 2003. Roy Miller (Matt Damon) lidera uma equipe, a serviço da inteligência do exército, em busca de armas de destruição em massa no Iraque. Depois de algumas tentativas frustradas, o militar se vê diante de um cenário caótico entre seus compatriotas, o que o deixa dividido entre aplacar o anseio do governo de encontrar algo que justificasse a invasão ou descobrir a verdade dos fatos.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
+<item><title>[B][COLOR white]zona Desmilitarizada[COLOR yellow] ( 2018 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F71FBC434EB51D35508329F5C0562330BDABD820</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8YDzVKbWAriDlOd0f2DRBqyENJ3.jpg</thumbnail><info>[B]Sinopse:[COLOR yellow]No dia da eleição presidencial dos EUA em 2024, Ahab e sua equipe de mercenários de elite embarcam em uma missão secreta da CIA para sequestrar o ministro das Forças Armadas da Coreia do Norte, em um bunker subterrâneo abaixo da zona desmilitarizada coreana. No entanto, eles são pegos no fogo cruzado, o que faz com que as tensões subam à beira da Terceira Guerra Mundial.[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
-###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
-###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
-###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
-###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
-###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
-###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
-###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
-###########################################################################################################################
-<item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 <item><title>[B][COLOR white][COLOR yellow] (  )[/COLOR][/B]</title>
 <link></link><thumbnail></thumbnail><info>[B]Sinopse:[COLOR yellow][/COLOR][/B]</info></item>
 ###########################################################################################################################
