@@ -1,0 +1,37 @@
+1ª Temporada
+<item><title>[B][COLOR white] EP 01 - [COLOR yellow]  Cubos [/COLOR][/B]</title><link>https://workstation.canais.ink/RCServer11/ondemand/3PRCT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white] EP 02 - [COLOR yellow]  Moedas [/COLOR][/B]</title><link>https://workstation.canais.ink/RCServer11/ondemand/3PRCT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white] EP 03 - [COLOR yellow]  Corredor [/COLOR][/B]</title><link>https://workstation.canais.ink/RCServer11/ondemand/3PRCT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white] EP 04 - [COLOR yellow]  Portão [/COLOR][/B]</title><link>https://workstation.canais.ink/RCServer11/ondemand/3PRCT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white] EP 05 - [COLOR yellow]  Água [/COLOR][/B]</title><link>https://workstation.canais.ink/RCServer11/ondemand/3PRCT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white] EP 06 - [COLOR yellow]  Vidro [/COLOR][/B]</title><link>https://workstation.canais.ink/RCServer11/ondemand/3PRCT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white] EP 07 - [COLOR yellow]  Cápsula [/COLOR][/B]</title><link>https://workstation.canais.ink/RCServer11/ondemand/3PRCT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white] EP 08 - [COLOR yellow]  Botão [/COLOR][/B]</title><link>https://workstation.canais.ink/RCServer11/ondemand/3PRCT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+2ª Temporada
+<item><title>[B][COLOR white] EP 01 - [COLOR yellow]  Espelho [/COLOR][/B]</title><link>https://workstation.canais.ink/RCServer13/ondemand/3PRCT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white] EP 02 - [COLOR yellow]  Torradeira [/COLOR][/B]</title><link>https://workstation.canais.ink/RCServer13/ondemand/3PRCT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white] EP 03 - [COLOR yellow]  Estática [/COLOR][/B]</title><link>https://workstation.canais.ink/RCServer13/ondemand/3PRCT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white] EP 04 - [COLOR yellow]  Guardanapo [/COLOR][/B]</title><link>https://workstation.canais.ink/RCServer13/ondemand/3PRCT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white] EP 05 - [COLOR yellow]  Lampião [/COLOR][/B]</title><link>https://workstation.canais.ink/RCServer13/ondemand/3PRCT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white] EP 06 - [COLOR yellow]  Garrafas [/COLOR][/B]</title><link>https://workstation.canais.ink/RCServer13/ondemand/3PRCT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white] EP 07 - [COLOR yellow]  Névoa [/COLOR][/B]</title><link>https://workstation.canais.ink/RCServer13/ondemand/3PRCT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white] EP 08 - [COLOR yellow]  Sapos [/COLOR][/B]</title><link>https://workstation.canais.ink/RCServer13/ondemand/3PRCT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white] EP 09 - [COLOR yellow]  Colar [/COLOR][/B]</title><link>https://workstation.canais.ink/RCServer13/ondemand/3PRCT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white] EP 10 - [COLOR yellow]  Sangue [/COLOR][/B]</title><link>https://workstation.canais.ink/RCServer13/ondemand/3PRCT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+3ª Temporada
+<item><title>[B][COLOR white] EP 01 - [COLOR yellow]  Areia [/COLOR][/B]</title><link>https://workstation.canais.ink/RCServer06/ondemand/3PRCT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white] EP 02 - [COLOR yellow]  Lâmina [/COLOR][/B]</title><link>https://workstation.canais.ink/RCServer06/ondemand/3PRCT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white] EP 03 - [COLOR yellow]  Remédio [/COLOR][/B]</title><link>https://workstation.canais.ink/RCServer06/ondemand/3PRCT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white] EP 04 - [COLOR yellow]  Pato [/COLOR][/B]</title><link>https://workstation.canais.ink/RCServer06/ondemand/3PRCT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white] EP 05 - [COLOR yellow]  Alavanca [/COLOR][/B]</title><link>https://workstation.canais.ink/RCServer06/ondemand/3PRCT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white] EP 06 - [COLOR yellow]  Alçapão [/COLOR][/B]</title><link>https://workstation.canais.ink/RCServer06/ondemand/3PRCT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white] EP 07 - [COLOR yellow]  Jardrone [/COLOR][/B]</title><link>https://workstation.canais.ink/RCServer06/ondemand/3PRCT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white] EP 08 - [COLOR yellow]  Onda [/COLOR][/B]</title><link>https://workstation.canais.ink/RCServer06/ondemand/3PRCT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+4ª Temporada
+<item><title>[B][COLOR white] EP 01 - [COLOR yellow]  Lua [/COLOR][/B]</title><link>https://workstation.canais.ink/RCServer12/ondemand/3PRCT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white] EP 02 - [COLOR yellow]  Choque [/COLOR][/B]</title><link>https://workstation.canais.ink/RCServer12/ondemand/3PRCT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white] EP 03 - [COLOR yellow]  Fogo [/COLOR][/B]</title><link>https://workstation.canais.ink/RCServer11/ondemand/3PRCT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white] EP 04 - [COLOR yellow]  Submarino [/COLOR][/B]</title><link>https://workstation.canais.ink/RCServer12/ondemand/3PRCT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white] EP 05 - [COLOR yellow]  Pintura [/COLOR][/B]</title><link>https://workstation.canais.ink/RCServer12/ondemand/3PRCT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white] EP 06 - [COLOR yellow]  Botões [/COLOR][/B]</title><link>https://workstation.canais.ink/RCServer12/ondemand/3PRCT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white] EP 07 - [COLOR yellow]  Sol [/COLOR][/B]</title><link>https://workstation.canais.ink/RCServer12/ondemand/3PRCT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
